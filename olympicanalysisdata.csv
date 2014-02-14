@@ -1,0 +1,1078 @@
+GameType, Year, locCity, locCountry, Rank, partCountry, Gold, Silver, Bronze, Total,Wbcountry,GDP,Pop
+Summer,2012,London,Great Britain,1,United States,46,29,29,104,United States,16244600000000,313914040
+Summer,2012,London,Great Britain,2,China,38,27,23,88,China,8227102629831,1350695000
+Summer,2012,London,Great Britain,3,Russia,24,26,32,82,Russian Federation,2014774938342,143533000
+Summer,2012,London,Great Britain,4,Great Britain,29,17,19,65,United Kingdom,2471783570300,63227526
+Summer,2012,London,Great Britain,5,Germany,11,19,14,44,Germany,3428130624839,81889839
+Summer,2012,London,Great Britain,6,Japan,7,14,17,38,Japan,5959718262199,127561489
+Summer,2012,London,Great Britain,7,Australia,7,16,12,35,Australia,1532407884934,22683600
+Summer,2012,London,Great Britain,8,France,11,11,12,34,France,2612878387760,65696689
+Summer,2012,London,Great Britain,9,South Korea,13,8,7,28,"Korea, Rep.",1129598273324,50004000
+Summer,2012,London,Great Britain,10,Italy,8,9,11,28,Italy,2014669579720,60917978
+Summer,2012,London,Great Britain,11,Netherlands,6,6,8,20,Netherlands,770555412702,16767705
+Summer,2012,London,Great Britain,12,Ukraine,6,5,9,20,Ukraine,176308825694,45593300
+Summer,2012,London,Great Britain,13,Hungary,8,4,6,18,Hungary,124600486886,9943755
+Summer,2012,London,Great Britain,14,Canada,1,5,12,18,Canada,1821424139311,34880491
+Summer,2012,London,Great Britain,15,Spain,3,10,4,17,Spain,1322964772435,46217961
+Summer,2012,London,Great Britain,16,Brazil,3,5,9,17,Brazil,2252664120777,198656019
+Summer,2012,London,Great Britain,17,Cuba,5,3,6,14,Cuba,0,11270957
+Summer,2012,London,Great Britain,18,Kazakhstan,7,1,5,13,Kazakhstan,203520610288,16797459
+Summer,2012,London,Great Britain,19,New Zealand,6,2,5,13,New Zealand,167347054534,4433100
+Summer,2012,London,Great Britain,20,Iran,4,5,3,12,"Iran, Islamic Rep.",0,76424443
+Summer,2012,London,Great Britain,21,Jamaica,4,4,4,12,Jamaica,14755051129,2712100
+Summer,2012,London,Great Britain,22,Belarus,2,5,5,12,Belarus,63267017440,9464000
+Summer,2012,London,Great Britain,23,Kenya,2,4,5,11,Kenya,40697163224,43178141
+Summer,2012,London,Great Britain,24,Czech Republic,4,3,3,10,Czech Republic,196446226536,10514810
+Summer,2012,London,Great Britain,25,Azerbaijan,2,2,6,10,Azerbaijan,66604589419,9297507
+Summer,2012,London,Great Britain,26,Poland,2,2,6,10,Poland,489795486644,38542737
+Summer,2012,London,Great Britain,27,Romania,2,5,2,9,Romania,192710684930,21326905
+Summer,2012,London,Great Britain,28,Denmark,2,4,3,9,Denmark,314887354338,5590478
+Summer,2012,London,Great Britain,29,Sweden,1,4,3,8,Sweden,523805608856,9516617
+Summer,2012,London,Great Britain,30,Colombia,1,3,4,8,Colombia,369606330702,47704427
+Summer,2012,London,Great Britain,31,Ethiopia,3,1,3,7,Ethiopia,41605361646,91728849
+Summer,2012,London,Great Britain,32,Mexico,1,3,3,7,Mexico,1178126184343,120847477
+Summer,2012,London,Great Britain,33,Georgia,1,3,3,7,Georgia,15747288816,4511800
+Summer,2012,London,Great Britain,34,North Korea,4,0,2,6,"Korea, Dem. Rep.",0,24763188
+Summer,2012,London,Great Britain,35,South Africa,3,2,1,6,South Africa,384312674446,51189307
+Summer,2012,London,Great Britain,36,Croatia,3,1,2,6,Croatia,59228247411,4267000
+Summer,2012,London,Great Britain,37,India,0,2,4,6,India,1841709755679,1236686732
+Summer,2012,London,Great Britain,38,Turkey,2,2,1,5,Turkey,789257487307,73997128
+Summer,2012,London,Great Britain,39,Lithuania,2,1,2,5,Lithuania,42343521966,2985509
+Summer,2012,London,Great Britain,40,Ireland,1,1,3,5,Ireland,210771406836,4588798
+Summer,2012,London,Great Britain,41,Mongolia,0,2,3,5,Mongolia,10271393281,2796484
+Summer,2012,London,Great Britain,42,Switzerland,2,2,0,4,Switzerland,631173029582,7997152
+Summer,2012,London,Great Britain,43,Norway,2,1,1,4,Norway,499667211001,5018869
+Summer,2012,London,Great Britain,44,Slovenia,1,1,2,4,Slovenia,45279487180,2058152
+Summer,2012,London,Great Britain,45,Argentina,1,1,2,4,Argentina,475501675473,41086927
+Summer,2012,London,Great Britain,46,Serbia,1,1,2,4,Serbia,37488935010,7223887
+Summer,2012,London,Great Britain,47,Trinidad and Tobago,1,0,3,4,Trinidad and Tobago,23320256743,1337439
+Summer,2012,London,Great Britain,48,Slovakia,0,1,3,4,Slovak Republic,91148717949,5410267
+Summer,2012,London,Great Britain,49,Tunisia,1,1,1,3,Tunisia,45662043358,10777500
+Summer,2012,London,Great Britain,50,Uzbekistan,1,0,2,3,Uzbekistan,51112745669,29776850
+Summer,2012,London,Great Britain,51,Thailand,0,2,1,3,Thailand,365965815820,66785001
+Summer,2012,London,Great Britain,52,Belgium,0,1,2,3,Belgium,483261763950,11142157
+Summer,2012,London,Great Britain,53,Armenia,0,1,2,3,Armenia,9950522733,2969081
+Summer,2012,London,Great Britain,54,Finland,0,1,2,3,Finland,247545641553,5414293
+Summer,2012,London,Great Britain,55,Dominican Republic,1,1,0,2,Dominican Republic,59047202158,10276621
+Summer,2012,London,Great Britain,56,Latvia,1,0,1,2,Latvia,28372577697,2025473
+Summer,2012,London,Great Britain,57,Egypt,0,2,0,2,"Egypt, Arab Rep.",262831912587,80721874
+Summer,2012,London,Great Britain,59,Indonesia,0,1,1,2,Indonesia,878043027882,246864191
+Summer,2012,London,Great Britain,60,Puerto Rico,0,1,1,2,Puerto Rico,101495811266,3667084
+Summer,2012,London,Great Britain,61,Estonia,0,1,1,2,Estonia,22390242609,1339396
+Summer,2012,London,Great Britain,62,Bulgaria,0,1,1,2,Bulgaria,50972109857,7304632
+Summer,2012,London,Great Britain,63,Malaysia,0,1,1,2,Malaysia,305032745225,29239927
+Summer,2012,London,Great Britain,64,Greece,0,0,2,2,Greece,249098684277,11280167
+Summer,2012,London,Great Britain,65,Singapore,0,0,2,2,Singapore,274701299734,5312400
+Summer,2012,London,Great Britain,66,Moldova,0,0,2,2,Moldova,7252769934,3559541
+Summer,2012,London,Great Britain,67,Qatar,0,0,2,2,Qatar,0,2050514
+Summer,2012,London,Great Britain,68,Grenada,1,0,0,1,Grenada,766510727,105483
+Summer,2012,London,Great Britain,69,Algeria,1,0,0,1,Algeria,205788796017,38481705
+Summer,2012,London,Great Britain,70,Uganda,1,0,0,1,Uganda,19881412441,36345860
+Summer,2012,London,Great Britain,71,Bahamas,1,0,0,1,"Bahamas, The",8149004000,371960
+Summer,2012,London,Great Britain,72,Venezuela,1,0,0,1,"Venezuela, RB",381286237848,29954782
+Summer,2012,London,Great Britain,73,Guatemala,0,1,0,1,Guatemala,50233749191,15082831
+Summer,2012,London,Great Britain,74,Botswana,0,1,0,1,Botswana,14504339386,2003910
+Summer,2012,London,Great Britain,75,Portugal,0,1,0,1,Portugal,212273977886,10526703
+Summer,2012,London,Great Britain,76,Montenegro,0,1,0,1,Montenegro,4373170812,621081
+Summer,2012,London,Great Britain,77,Cyprus,0,1,0,1,Cyprus,22766912960,1128994
+Summer,2012,London,Great Britain,78,Gabon,0,1,0,1,Gabon,18377083881,1632572
+Summer,2012,London,Great Britain,79,Kuwait,0,0,1,1,Kuwait,0,3250496
+Summer,2012,London,Great Britain,80,Afghanistan,0,0,1,1,Afghanistan,20496777409,29824536
+Summer,2012,London,Great Britain,81,Morocco,0,0,1,1,Morocco,95981572517,32521143
+Summer,2012,London,Great Britain,82,Bahrain,0,0,1,1,Bahrain,0,1317827
+Summer,2012,London,Great Britain,83,Tajikistan,0,0,1,1,Tajikistan,6972163026,8008990
+Summer,2012,London,Great Britain,84,Hong Kong,0,0,1,1,"Hong Kong SAR, China",263259372905,7154600
+Summer,2012,London,Great Britain,85,Saudi Arabia,0,0,1,1,Saudi Arabia,711049600000,28287855
+Winter,2010,Vancouver,Canada,1,United States,9,15,13,37,United States,14958300000000,309326225
+Winter,2010,Vancouver,Canada,2,Germany,10,13,7,30,Germany,3282894736842,81776930
+Winter,2010,Vancouver,Canada,3,Canada,14,7,5,26,Canada,1577040082218,34126547
+Winter,2010,Vancouver,Canada,4,Norway,9,8,6,23,Norway,421236092715,4889252
+Winter,2010,Vancouver,Canada,5,Austria,4,6,6,16,Austria,375217439474,8389771
+Winter,2010,Vancouver,Canada,6,Russia,3,5,7,15,Russian Federation,1524916698233,142389000
+Winter,2010,Vancouver,Canada,7,South Korea,6,6,2,14,"Korea, Rep.",1014890141871,49410000
+Winter,2010,Vancouver,Canada,8,Sweden,5,2,4,11,Sweden,462903051318,9378126
+Winter,2010,Vancouver,Canada,9,China,5,2,4,11,China,5930529470799,1337705000
+Winter,2010,Vancouver,Canada,10,France,2,3,6,11,France,2548315434211,65031235
+Winter,2010,Vancouver,Canada,11,Switzerland,6,0,3,9,Switzerland,550638974462,7824909
+Winter,2010,Vancouver,Canada,12,Netherlands,4,1,3,8,Netherlands,772090789474,16615394
+Winter,2010,Vancouver,Canada,13,Czech Republic,2,0,4,6,Czech Republic,198475392670,10519792
+Winter,2010,Vancouver,Canada,14,Poland,1,3,2,6,Poland,469736810691,38183683
+Winter,2010,Vancouver,Canada,15,Italy,1,1,3,5,Italy,2041954747600,60483385
+Winter,2010,Vancouver,Canada,16,Japan,0,3,2,5,Japan,5495379357485,127450459
+Winter,2010,Vancouver,Canada,17,Finland,0,1,4,5,Finland,235163157895,5363352
+Winter,2010,Vancouver,Canada,18,Australia,2,1,0,3,Australia,1141793593834,22065300
+Winter,2010,Vancouver,Canada,19,Slovakia,1,1,1,3,Slovak Republic,87077443709,5430099
+Winter,2010,Vancouver,Canada,20,Belarus,1,1,1,3,Belarus,55220932614,9490000
+Winter,2010,Vancouver,Canada,21,Croatia,0,2,1,3,Croatia,58873839435,4417800
+Winter,2010,Vancouver,Canada,22,Slovenia,0,2,1,3,Slovenia,46908328071,2048583
+Winter,2010,Vancouver,Canada,23,Latvia,0,2,0,2,Latvia,24009680460,2239008
+Winter,2010,Vancouver,Canada,24,Great Britain,1,0,0,1,United Kingdom,2285561538462,62271177
+Winter,2010,Vancouver,Canada,25,Kazakhstan,0,1,0,1,Kazakhstan,148052371904,16323287
+Winter,2010,Vancouver,Canada,26,Estonia,0,1,0,1,Estonia,18909381437,1340161
+Summer,2008,Beijing,China,1,United States,36,38,36,110,United States,14720300000000,304093966
+Summer,2008,Beijing,China,2,China,51,21,28,100,China,4521827288304,1324655000
+Summer,2008,Beijing,China,3,Russia,23,21,29,73,Russian Federation,1660846387626,141950000
+Summer,2008,Beijing,China,4,Great Britain,19,13,15,47,United Kingdom,2687796663762,61393521
+Summer,2008,Beijing,China,5,Australia,14,15,17,46,Australia,1055506156997,21384400
+Summer,2008,Beijing,China,6,Germany,16,10,15,41,Germany,3623686234299,82110097
+Summer,2008,Beijing,China,7,France,7,16,18,41,France,2831794045483,64371099
+Summer,2008,Beijing,China,8,South Korea,13,10,8,31,"Korea, Rep.",931402204982,48949000
+Summer,2008,Beijing,China,9,Italy,8,9,10,27,Italy,2307311493055,59832179
+Summer,2008,Beijing,China,10,Ukraine,7,5,15,27,Ukraine,179992405832,46258200
+Summer,2008,Beijing,China,11,Japan,9,6,10,25,Japan,4849208099924,127704040
+Summer,2008,Beijing,China,12,Cuba,2,11,11,24,Cuba,60806200000,11296355
+Summer,2008,Beijing,China,13,Belarus,4,5,10,19,Belarus,60763483146,9528000
+Summer,2008,Beijing,China,14,Spain,5,10,3,18,Spain,1593420002197,45555716
+Summer,2008,Beijing,China,15,Canada,3,9,6,18,Canada,1502678437547,33317662
+Summer,2008,Beijing,China,16,Netherlands,7,5,4,16,Netherlands,870811147325,16445593
+Summer,2008,Beijing,China,17,Brazil,3,4,8,15,Brazil,1653538618145,191765567
+Summer,2008,Beijing,China,18,Kenya,6,4,4,14,Kenya,30465489796,38773277
+Summer,2008,Beijing,China,19,Kazakhstan,2,4,7,13,Kazakhstan,133441649222,15673999
+Summer,2008,Beijing,China,20,Jamaica,6,3,2,11,Jamaica,13676837630,2687200
+Summer,2008,Beijing,China,21,Poland,3,6,1,10,Poland,529432301179,38125759
+Summer,2008,Beijing,China,22,Hungary,3,5,2,10,Hungary,154233541852,10038188
+Summer,2008,Beijing,China,23,Norway,3,5,1,9,Norway,453885460993,4768212
+Summer,2008,Beijing,China,24,New Zealand,3,2,4,9,New Zealand,130672262113,4268900
+Summer,2008,Beijing,China,25,Romania,4,1,3,8,Romania,204335225694,21513622
+Summer,2008,Beijing,China,26,Turkey,1,4,3,8,Turkey,730337495966,70363511
+Summer,2008,Beijing,China,27,Ethiopia,4,1,2,7,Ethiopia,25608626476,82621190
+Summer,2008,Beijing,China,28,Denmark,2,2,3,7,Denmark,343881383958,5493621
+Summer,2008,Beijing,China,29,Switzerland,2,1,4,7,Switzerland,524289203562,7647675
+Summer,2008,Beijing,China,30,Azerbaijan,1,2,4,7,Azerbaijan,48852482960,8763400
+Summer,2008,Beijing,China,31,Czech Republic,3,3,0,6,Czech Republic,225448799063,10424336
+Summer,2008,Beijing,China,32,Slovakia,3,2,1,6,Slovak Republic,97908891167,5406626
+Summer,2008,Beijing,China,33,Georgia,3,0,3,6,Georgia,12799337250,4383800
+Summer,2008,Beijing,China,34,North Korea,2,1,3,6,"Korea, Dem. Rep.",0,24243894
+Summer,2008,Beijing,China,35,Argentina,2,0,4,6,Argentina,326582808527,39676083
+Summer,2008,Beijing,China,36,Uzbekistan,1,2,3,6,Uzbekistan,27934030937,27302800
+Summer,2008,Beijing,China,37,Armenia,0,0,6,6,Armenia,11662017845,2977488
+Summer,2008,Beijing,China,38,Slovenia,1,2,2,5,Slovenia,54606018255,2021316
+Summer,2008,Beijing,China,39,Indonesia,1,1,3,5,Indonesia,510244548960,234243489
+Summer,2008,Beijing,China,40,Bulgaria,1,1,3,5,Bulgaria,51824892678,7623395
+Summer,2008,Beijing,China,41,Sweden,0,4,1,5,Sweden,486158607820,9219637
+Summer,2008,Beijing,China,42,Croatia,0,2,3,5,Croatia,69595272329,4434000
+Summer,2008,Beijing,China,43,Lithuania,0,2,3,5,Lithuania,47252926429,3358115
+Summer,2008,Beijing,China,44,Thailand,2,2,0,4,Thailand,272577799257,66185340
+Summer,2008,Beijing,China,45,Mongolia,2,2,0,4,Mongolia,5623236708,2632834
+Summer,2008,Beijing,China,46,Zimbabwe,1,3,0,4,Zimbabwe,4415702801,12784041
+Summer,2008,Beijing,China,47,Finland,1,1,2,4,Finland,271974219065,5313399
+Summer,2008,Beijing,China,48,Greece,0,2,2,4,Greece,341593975533,11237094
+Summer,2008,Beijing,China,49,Nigeria,0,1,3,4,Nigeria,208064724514,151208080
+Summer,2008,Beijing,China,51,Mexico,2,0,1,3,Mexico,1099070673263,114968039
+Summer,2008,Beijing,China,52,Latvia,1,1,1,3,Latvia,33669367720,2266094
+Summer,2008,Beijing,China,53,India,1,0,2,3,India,1224095295077,1174662334
+Summer,2008,Beijing,China,54,Serbia,0,1,2,3,Serbia,47760580366,7350221
+Summer,2008,Beijing,China,55,Ireland,0,1,2,3,Ireland,264034092036,4425683
+Summer,2008,Beijing,China,56,Austria,0,1,2,3,Austria,414171069689,8336926
+Summer,2008,Beijing,China,57,Portugal,1,1,0,2,Portugal,251925293881,10622413
+Summer,2008,Beijing,China,58,Estonia,1,1,0,2,Estonia,23781539699,1340675
+Summer,2008,Beijing,China,59,Belgium,1,1,0,2,Belgium,507379060314,10709973
+Summer,2008,Beijing,China,60,Dominican Republic,1,1,0,2,Dominican Republic,45796188394,9750195
+Summer,2008,Beijing,China,61,Iran,1,0,1,2,"Iran, Islamic Rep.",355988367222,72660887
+Summer,2008,Beijing,China,62,Trinidad and Tobago,0,2,0,2,Trinidad and Tobago,28017710148,1316449
+Summer,2008,Beijing,China,63,Tajikistan,0,1,1,2,Tajikistan,5161336170,7275252
+Summer,2008,Beijing,China,64,Algeria,0,1,1,2,Algeria,171000162581,35725377
+Summer,2008,Beijing,China,65,Colombia,0,1,1,2,Colombia,244056736297,45153037
+Summer,2008,Beijing,China,66,Kyrgyzstan,0,1,1,2,Kyrgyz Republic,5139957785,5318700
+Summer,2008,Beijing,China,67,Bahamas,0,1,1,2,"Bahamas, The",8246650000,348340
+Summer,2008,Beijing,China,68,Morocco,0,1,1,2,Morocco,88882967742,30955151
+Summer,2008,Beijing,China,69,Panama,1,0,0,1,Panama,23001600000,3553480
+Summer,2008,Beijing,China,70,Cameroon,1,0,0,1,Cameroon,23735537026,19595026
+Summer,2008,Beijing,China,71,Tunisia,1,0,0,1,Tunisia,44736953169,10328900
+Summer,2008,Beijing,China,72,Vietnam,0,1,0,1,Vietnam,99130304099,85122300
+Summer,2008,Beijing,China,73,Sudan,0,1,0,1,Sudan,54082389393,34040065
+Summer,2008,Beijing,China,74,Ecuador,0,1,0,1,Ecuador,61762635000,14512402
+Summer,2008,Beijing,China,75,South Africa,0,1,0,1,South Africa,273141750193,48793022
+Summer,2008,Beijing,China,76,Malaysia,0,1,0,1,Malaysia,230987618904,27302348
+Summer,2008,Beijing,China,77,Iceland,0,1,0,1,Iceland,16832079677,317414
+Summer,2008,Beijing,China,78,Chile,0,1,0,1,Chile,179626662207,16831184
+Summer,2008,Beijing,China,79,Singapore,0,1,0,1,Singapore,178924164930,4839400
+Summer,2008,Beijing,China,80,Egypt,0,0,1,1,"Egypt, Arab Rep.",162818181818,75491922
+Summer,2008,Beijing,China,81,Israel,0,0,1,1,Israel,201661649944,7308800
+Summer,2008,Beijing,China,82,Afghanistan,0,0,1,1,Afghanistan,10190534636,27032197
+Summer,2008,Beijing,China,83,Venezuela,0,0,1,1,"Venezuela, RB",315600203540,28120312
+Summer,2008,Beijing,China,84,Mauritius,0,0,1,1,Mauritius,9641077098,1268565
+Summer,2008,Beijing,China,85,Moldova,0,0,1,1,Moldova,6054806101,3570107
+Summer,2008,Beijing,China,86,Togo,0,0,1,1,Togo,3159544509,5987491
+Winter,2006,Torino,Italy,1,Germany,11,12,6,29,Germany,2902748698160,82376451
+Winter,2006,Torino,Italy,2,United States,9,9,7,25,United States,13857900000000,298379912
+Winter,2006,Torino,Italy,3,Canada,7,10,7,24,Canada,1278610846645,32576074
+Winter,2006,Torino,Italy,4,Austria,9,7,7,23,Austria,324954402044,8268641
+Winter,2006,Torino,Italy,5,Russia,8,6,8,22,Russian Federation,989930542279,142500000
+Winter,2006,Torino,Italy,6,Norway,2,8,9,19,Norway,340041912704,4660677
+Winter,2006,Torino,Italy,7,Sweden,7,2,5,14,Sweden,399075661573,9080505
+Winter,2006,Torino,Italy,8,Switzerland,5,4,5,14,Switzerland,405183914853,7483934
+Winter,2006,Torino,Italy,9,South Korea,6,3,2,11,"Korea, Rep.",951773478985,48372000
+Winter,2006,Torino,Italy,10,Italy,5,0,6,11,Italy,1872982702430,58941499
+Winter,2006,Torino,Italy,11,China,2,4,5,11,China,2712950886698,1311020000
+Winter,2006,Torino,Italy,12,France,3,2,4,9,France,2255705477450,63617975
+Winter,2006,Torino,Italy,13,Netherlands,3,2,4,9,Netherlands,677691901433,16346101
+Winter,2006,Torino,Italy,14,Finland,0,6,3,9,Finland,207949409201,5266268
+Winter,2006,Torino,Italy,15,Czech Republic,1,2,1,4,Czech Republic,148345088496,10269134
+Winter,2006,Torino,Italy,16,Estonia,3,0,0,3,Estonia,16798495348,1343547
+Winter,2006,Torino,Italy,17,Croatia,1,2,0,3,Croatia,49855078905,4440000
+Winter,2006,Torino,Italy,18,Australia,1,0,1,2,Australia,747463312369,20697900
+Winter,2006,Torino,Italy,19,Poland,0,1,1,2,Poland,341669943594,38141267
+Winter,2006,Torino,Italy,20,Ukraine,0,0,2,2,Ukraine,107753069307,46787750
+Winter,2006,Torino,Italy,21,Japan,1,0,0,1,Japan,4356761451087,127756000
+Winter,2006,Torino,Italy,22,Great Britain,0,1,0,1,United Kingdom,2483008793219,60595632
+Winter,2006,Torino,Italy,23,Slovakia,0,1,0,1,Slovak Republic,69002095095,5391409
+Winter,2006,Torino,Italy,24,Bulgaria,0,1,0,1,Bulgaria,33209188739,7699020
+Winter,2006,Torino,Italy,25,Belarus,0,1,0,1,Belarus,36961918859,9604000
+Winter,2006,Torino,Italy,26,Latvia,0,0,1,1,Latvia,19935046397,2287948
+Summer,2004,Athina,Greece,1,United States,36,39,26,101,United States,12277000000000,292805298
+Summer,2004,Athina,Greece,2,Russia,28,26,36,90,Russian Federation,591016690743,143849574
+Summer,2004,Athina,Greece,3,China,32,17,14,63,China,1931644331142,1296075000
+Summer,2004,Athina,Greece,4,Australia,17,16,17,50,Australia,613161189358,20127400
+Summer,2004,Athina,Greece,5,Germany,13,16,20,49,Germany,2726341472500,82516260
+Summer,2004,Athina,Greece,6,Japan,16,9,12,37,Japan,4655803055651,127761000
+Summer,2004,Athina,Greece,7,France,11,9,13,33,France,2055678853687,62702121
+Summer,2004,Athina,Greece,8,Italy,10,11,11,32,Italy,1735521503772,58175310
+Summer,2004,Athina,Greece,9,South Korea,9,12,9,30,"Korea, Rep.",721975255824,48039000
+Summer,2004,Athina,Greece,10,Great Britain,9,9,12,30,United Kingdom,2220820974770,59867866
+Summer,2004,Athina,Greece,11,Cuba,9,7,11,27,Cuba,38202800000,11273363
+Summer,2004,Athina,Greece,12,Ukraine,8,5,9,22,Ukraine,64883060726,47451600
+Summer,2004,Athina,Greece,13,Netherlands,4,9,9,22,Netherlands,609889925686,16281779
+Summer,2004,Athina,Greece,14,Spain,3,11,6,20,Spain,1044612070304,42691689
+Summer,2004,Athina,Greece,15,Romania,8,5,6,19,Romania,75489440362,21684890
+Summer,2004,Athina,Greece,16,Hungary,8,6,3,17,Hungary,101925734602,10107146
+Summer,2004,Athina,Greece,17,Greece,6,6,4,16,Greece,227950420086,11061701
+Summer,2004,Athina,Greece,18,Belarus,2,5,6,13,Belarus,23141587718,9730000
+Summer,2004,Athina,Greece,19,Canada,3,6,3,12,Canada,992226099522,31995000
+Summer,2004,Athina,Greece,20,Bulgaria,2,1,9,12,Bulgaria,25283228366,7781161
+Summer,2004,Athina,Greece,21,Turkey,3,3,5,11,Turkey,392166274991,66845635
+Summer,2004,Athina,Greece,22,Brazil,5,2,3,10,Brazil,663760341880,184010283
+Summer,2004,Athina,Greece,23,Poland,3,2,5,10,Poland,252768998589,38182222
+Summer,2004,Athina,Greece,24,Czech Republic,1,3,5,9,Czech Republic,113976672925,10216016
+Summer,2004,Athina,Greece,25,Thailand,3,1,4,8,Thailand,161339790595,65087400
+Summer,2004,Athina,Greece,26,Denmark,2,1,5,8,Denmark,244727978021,5404523
+Summer,2004,Athina,Greece,27,Kazakhstan,1,4,3,8,Kazakhstan,43151647003,15012984
+Summer,2004,Athina,Greece,28,Sweden,4,2,1,7,Sweden,362089648913,8993531
+Summer,2004,Athina,Greece,29,Austria,2,4,1,7,Austria,291430382497,8171966
+Summer,2004,Athina,Greece,30,Ethiopia,2,3,2,7,Ethiopia,9954110936,74066147
+Summer,2004,Athina,Greece,31,Kenya,1,4,2,7,Kenya,16095321631,34834606
+Summer,2004,Athina,Greece,32,Norway,5,0,1,6,Norway,260029106208,4591910
+Summer,2004,Athina,Greece,33,Slovakia,2,2,2,6,Slovak Republic,56073225726,5382438
+Summer,2004,Athina,Greece,34,Iran,2,2,2,6,"Iran, Islamic Rep.",163226579221,69342126
+Summer,2004,Athina,Greece,35,Argentina,2,0,4,6,Argentina,153129509710,38308779
+Summer,2004,Athina,Greece,36,South Africa,1,3,2,6,South Africa,219092936699,46664771
+Summer,2004,Athina,Greece,37,New Zealand,3,2,0,5,New Zealand,102983802756,4087500
+Summer,2004,Athina,Greece,39,Jamaica,2,1,2,5,Jamaica,10173234921,2638100
+Summer,2004,Athina,Greece,40,Uzbekistan,2,1,2,5,Uzbekistan,12030023548,25864350
+Summer,2004,Athina,Greece,41,Croatia,1,2,2,5,Croatia,41003558916,4439000
+Summer,2004,Athina,Greece,42,Switzerland,1,1,3,5,Switzerland,374224186244,7389625
+Summer,2004,Athina,Greece,43,Egypt,1,1,3,5,"Egypt, Arab Rep.",78845185709,70591288
+Summer,2004,Athina,Greece,44,Azerbaijan,1,0,4,5,Azerbaijan,8680511918,8306500
+Summer,2004,Athina,Greece,45,North Korea,0,4,1,5,"Korea, Dem. Rep.",0,23639303
+Summer,2004,Athina,Greece,46,Georgia,2,2,0,4,Georgia,5125273877,4318300
+Summer,2004,Athina,Greece,47,Indonesia,1,1,2,4,Indonesia,256836883305,221293797
+Summer,2004,Athina,Greece,48,Latvia,0,4,0,4,Latvia,13761569545,2312819
+Summer,2004,Athina,Greece,49,Mexico,0,3,1,4,Mexico,774800766586,109381550
+Summer,2004,Athina,Greece,50,Slovenia,0,1,3,4,Slovenia,33837749815,1997012
+Summer,2004,Athina,Greece,51,Morocco,2,1,0,3,Morocco,56948015336,29855820
+Summer,2004,Athina,Greece,52,Chile,2,0,1,3,Chile,100630707852,16168241
+Summer,2004,Athina,Greece,53,Lithuania,1,2,0,3,Lithuania,22551543054,3435591
+Summer,2004,Athina,Greece,54,Zimbabwe,1,1,1,3,Zimbabwe,5805598443,12693047
+Summer,2004,Athina,Greece,55,Belgium,1,0,2,3,Belgium,361683211960,10421137
+Summer,2004,Athina,Greece,56,Portugal,0,2,1,3,Portugal,185397304328,10501970
+Summer,2004,Athina,Greece,57,Estonia,0,1,2,3,Estonia,12025943710,1349290
+Summer,2004,Athina,Greece,58,Bahamas,1,0,1,2,"Bahamas, The",7094413000,322400
+Summer,2004,Athina,Greece,59,Israel,1,0,1,2,Israel,126571173583,6809000
+Summer,2004,Athina,Greece,60,Serbia and Montenegro,0,2,0,2,Montenegro,2073255525,614670
+Summer,2004,Athina,Greece,61,Finland,0,2,0,2,Finland,189064585623,5228172
+Summer,2004,Athina,Greece,62,Nigeria,0,0,2,2,Nigeria,87845403978,135999250
+Summer,2004,Athina,Greece,63,Venezuela,0,0,2,2,"Venezuela, RB",112451400423,26261326
+Summer,2004,Athina,Greece,64,Colombia,0,0,2,2,Colombia,117074865515,42527623
+Summer,2004,Athina,Greece,65,Dominican Republic,1,0,0,1,Dominican Republic,22163928097,9207389
+Summer,2004,Athina,Greece,66,Cameroon,1,0,0,1,Cameroon,15775356737,17674960
+Summer,2004,Athina,Greece,67,United Arab Emirates,1,0,0,1,United Arab Emirates,147824374543,3658658
+Summer,2004,Athina,Greece,68,Paraguay,0,1,0,1,Paraguay,8033877459,5793330
+Summer,2004,Athina,Greece,69,Hong Kong,0,1,0,1,"Hong Kong SAR, China",169099768875,6783500
+Summer,2004,Athina,Greece,70,India,0,1,0,1,India,721585608172,1110626108
+Summer,2004,Athina,Greece,71,Eritrea,0,0,1,1,Eritrea,1109054002,4665522
+Summer,2004,Athina,Greece,72,Trinidad and Tobago,0,0,1,1,Trinidad and Tobago,12884712296,1290379
+Summer,2004,Athina,Greece,73,Mongolia,0,0,1,1,Mongolia,1992066759,2496248
+Summer,2004,Athina,Greece,74,Syria,0,0,1,1,Syrian Arab Republic,25086930693,17676012
+Winter,2002,Salt Lake City,United States,1,Germany,12,16,8,36,Germany,2006587615283,82488495
+Winter,2002,Salt Lake City,United States,2,United States,10,13,11,34,United States,10980200000000,287625193
+Winter,2002,Salt Lake City,United States,3,Norway,13,5,7,25,Norway,191927027230,4538159
+Winter,2002,Salt Lake City,United States,4,Canada,7,3,7,17,Canada,734661951188,31362000
+Winter,2002,Salt Lake City,United States,5,Austria,3,4,10,17,Austria,207537336721,8081957
+Winter,2002,Salt Lake City,United States,6,Russia,5,4,4,13,Russian Federation,345110438694,145299690
+Winter,2002,Salt Lake City,United States,7,Italy,4,4,5,13,Italy,1225176959595,57157406
+Winter,2002,Salt Lake City,United States,8,France,4,5,2,11,France,1452030303030,61803229
+Winter,2002,Salt Lake City,United States,9,Switzerland,3,2,6,11,Switzerland,286658255889,7284753
+Winter,2002,Salt Lake City,United States,10,Netherlands,3,5,0,8,Netherlands,437807265199,16148929
+Winter,2002,Salt Lake City,United States,11,China,2,2,4,8,China,1453827554714,1280400000
+Winter,2002,Salt Lake City,United States,12,Finland,4,2,1,7,Finland,135183512140,5200598
+Winter,2002,Salt Lake City,United States,13,Sweden,0,2,5,7,Sweden,250960758337,8924958
+Winter,2002,Salt Lake City,United States,14,Croatia,3,1,0,4,Croatia,26524896398,4440000
+Winter,2002,Salt Lake City,United States,15,South Korea,2,2,0,4,"Korea, Rep.",575928909990,47622000
+Winter,2002,Salt Lake City,United States,16,Czech Republic,1,2,0,3,Czech Republic,78425201661,10204853
+Winter,2002,Salt Lake City,United States,17,Estonia,1,1,1,3,Estonia,7318186727,1358644
+Winter,2002,Salt Lake City,United States,18,Bulgaria,0,1,2,3,Bulgaria,15979194511,7868468
+Winter,2002,Salt Lake City,United States,19,Australia,2,0,0,2,Australia,394442235245,19651400
+Winter,2002,Salt Lake City,United States,20,Great Britain,1,0,1,2,United Kingdom,1620900779377,59325809
+Winter,2002,Salt Lake City,United States,21,Poland,0,1,1,2,Poland,198179425151,38230364
+Winter,2002,Salt Lake City,United States,22,Japan,0,1,1,2,Japan,3980819536160,127445000
+Winter,2002,Salt Lake City,United States,23,Belarus,0,0,1,1,Belarus,14594925393,9865000
+Winter,2002,Salt Lake City,United States,24,Slovenia,0,0,1,1,Slovenia,23136352386,1994530
+Summer,2000,Sydney,Australia,1,United States,37,24,32,93,United States,10289700000000,282162411
+Summer,2000,Sydney,Australia,2,Russia,32,28,29,89,Russian Federation,259708496267,146303000
+Summer,2000,Sydney,Australia,3,China,28,16,14,58,China,1198474934199,1262645000
+Summer,2000,Sydney,Australia,4,Australia,16,25,17,58,Australia,415208189412,19153000
+Summer,2000,Sydney,Australia,5,Germany,13,17,26,56,Germany,1886401326700,82211508
+Summer,2000,Sydney,Australia,6,France,13,14,11,38,France,1326334899576,60911057
+Summer,2000,Sydney,Australia,7,Italy,13,8,13,34,Italy,1104009462562,56942108
+Summer,2000,Sydney,Australia,8,Cuba,11,11,7,29,Cuba,30565200000,11138416
+Summer,2000,Sydney,Australia,9,Great Britain,11,10,7,28,United Kingdom,1493628385535,58892514
+Summer,2000,Sydney,Australia,10,South Korea,8,10,10,28,"Korea, Rep.",533384027729,47008000
+Summer,2000,Sydney,Australia,11,Romania,11,6,9,26,Romania,37052636395,22442971
+Summer,2000,Sydney,Australia,12,Netherlands,12,9,4,25,Netherlands,385074626866,15925513
+Summer,2000,Sydney,Australia,13,Ukraine,3,10,10,23,Ukraine,31261527363,49175848
+Summer,2000,Sydney,Australia,14,Japan,5,8,5,18,Japan,4731198760271,126870000
+Summer,2000,Sydney,Australia,15,Hungary,8,6,3,17,Hungary,46385589534,10210971
+Summer,2000,Sydney,Australia,16,Belarus,3,3,11,17,Belarus,12736856485,10005000
+Summer,2000,Sydney,Australia,17,Poland,6,5,3,14,Poland,171276118424,38453757
+Summer,2000,Sydney,Australia,18,Canada,3,3,8,14,Canada,724918860683,30769700
+Summer,2000,Sydney,Australia,19,Bulgaria,5,6,2,13,Bulgaria,12903546765,8170172
+Summer,2000,Sydney,Australia,20,Greece,4,6,3,13,Greece,124418164455,10917482
+Summer,2000,Sydney,Australia,21,Sweden,4,5,3,12,Sweden,247260155858,8872109
+Summer,2000,Sydney,Australia,22,Brazil,0,6,6,12,Brazil,644701831101,174504898
+Summer,2000,Sydney,Australia,23,Spain,3,3,5,11,Spain,580345494748,40263216
+Summer,2000,Sydney,Australia,24,Norway,4,3,3,10,Norway,168288531891,4490967
+Summer,2000,Sydney,Australia,25,Switzerland,1,6,2,9,Switzerland,256042925982,7184250
+Summer,2000,Sydney,Australia,26,Jamaica,0,6,3,9,Jamaica,9008629729,2589389
+Summer,2000,Sydney,Australia,27,Ethiopia,4,1,3,8,Ethiopia,8098332674,66024199
+Summer,2000,Sydney,Australia,28,Czech Republic,2,3,3,8,Czech Republic,58807244368,10272322
+Summer,2000,Sydney,Australia,29,Kazakhstan,3,4,0,7,Kazakhstan,18291990619,14883626
+Summer,2000,Sydney,Australia,30,Kenya,2,3,2,7,Kenya,12705350153,31285050
+Summer,2000,Sydney,Australia,31,Denmark,2,3,1,6,Denmark,160082517846,5339616
+Summer,2000,Sydney,Australia,32,Indonesia,1,3,2,6,Indonesia,165021012262,208938698
+Summer,2000,Sydney,Australia,33,Mexico,1,2,3,6,Mexico,692177614210,103873607
+Summer,2000,Sydney,Australia,34,Georgia,0,0,6,6,Georgia,3057453461,4418300
+Summer,2000,Sydney,Australia,35,Turkey,3,0,2,5,Turkey,266567531990,63174483
+Summer,2000,Sydney,Australia,36,Lithuania,2,0,3,5,Lithuania,11434200000,3499536
+Summer,2000,Sydney,Australia,37,Slovakia,1,3,1,5,Slovak Republic,28724041828,5388720
+Summer,2000,Sydney,Australia,38,Algeria,1,1,3,5,Algeria,54790058957,31719449
+Summer,2000,Sydney,Australia,39,South Africa,0,2,3,5,South Africa,132877640158,44000000
+Summer,2000,Sydney,Australia,40,Belgium,0,2,3,5,Belgium,232672747374,10251250
+Summer,2000,Sydney,Australia,41,Morocco,0,1,4,5,Morocco,37020609825,28710123
+Summer,2000,Sydney,Australia,43,Iran,3,0,1,4,"Iran, Islamic Rep.",101286514977,65911052
+Summer,2000,Sydney,Australia,44,Finland,2,1,1,4,Finland,121793808734,5176209
+Summer,2000,Sydney,Australia,45,Uzbekistan,1,1,2,4,Uzbekistan,13760374488,24650400
+Summer,2000,Sydney,Australia,46,New Zealand,1,0,3,4,New Zealand,51981385896,3857700
+Summer,2000,Sydney,Australia,47,Argentina,0,2,2,4,Argentina,284203750000,36903067
+Summer,2000,Sydney,Australia,48,North Korea,0,1,3,4,"Korea, Dem. Rep.",0,22840225
+Summer,2000,Sydney,Australia,49,Austria,2,1,0,3,Austria,192070749954,8011566
+Summer,2000,Sydney,Australia,50,Bahamas,2,0,1,3,"Bahamas, The",6327552000,297759
+Summer,2000,Sydney,Australia,51,Azerbaijan,2,0,1,3,Azerbaijan,5272617196,8048600
+Summer,2000,Sydney,Australia,52,Nigeria,1,2,0,3,Nigeria,46385996027,122876727
+Summer,2000,Sydney,Australia,53,Serbia and Montenegro,1,1,1,3,Montenegro,984279596,611196
+Summer,2000,Sydney,Australia,54,Latvia,1,1,1,3,Latvia,7833068425,2372985
+Summer,2000,Sydney,Australia,55,Estonia,1,0,2,3,Estonia,5675174662,1369515
+Summer,2000,Sydney,Australia,56,Thailand,1,0,2,3,Thailand,122725247706,62343379
+Summer,2000,Sydney,Australia,57,Slovenia,2,0,0,2,Slovenia,19979467790,1988925
+Summer,2000,Sydney,Australia,58,Croatia,1,0,1,2,Croatia,21517784659,4426000
+Summer,2000,Sydney,Australia,59,Trinidad and Tobago,0,1,1,2,Trinidad and Tobago,8154315708,1267980
+Summer,2000,Sydney,Australia,60,Saudi Arabia,0,1,1,2,Saudi Arabia,188441864875,20144584
+Summer,2000,Sydney,Australia,61,Moldova,0,1,1,2,Moldova,1288420223,3639588
+Summer,2000,Sydney,Australia,62,Costa Rica,0,0,2,2,Costa Rica,15946443103,3929588
+Summer,2000,Sydney,Australia,63,Portugal,0,0,2,2,Portugal,117299520914,10225836
+Summer,2000,Sydney,Australia,64,Colombia,1,0,0,1,Colombia,99886577576,39897984
+Summer,2000,Sydney,Australia,65,Cameroon,1,0,0,1,Cameroon,9287367569,15927713
+Summer,2000,Sydney,Australia,66,Mozambique,1,0,0,1,Mozambique,4310090791,18275618
+Summer,2000,Sydney,Australia,67,Vietnam,0,1,0,1,Vietnam,33640085728,77630900
+Summer,2000,Sydney,Australia,68,Uruguay,0,1,0,1,Uruguay,22823255806,3320841
+Summer,2000,Sydney,Australia,69,Sri Lanka,0,1,0,1,Sri Lanka,16330810304,19102000
+Summer,2000,Sydney,Australia,70,Ireland,0,1,0,1,Ireland,97331522052,3805174
+Summer,2000,Sydney,Australia,71,Barbados,0,0,1,1,Barbados,3119500000,267190
+Summer,2000,Sydney,Australia,72,Iceland,0,0,1,1,Iceland,8697298234,281205
+Summer,2000,Sydney,Australia,73,Kuwait,0,0,1,1,Kuwait,37718011469,1906231
+Summer,2000,Sydney,Australia,74,Israel,0,0,1,1,Israel,124895151203,6289000
+Summer,2000,Sydney,Australia,75,Macedonia,0,0,1,1,"Macedonia, FYR",3586883989,2052129
+Summer,2000,Sydney,Australia,76,Kyrgyzstan,0,0,1,1,Kyrgyz Republic,1369691955,4898400
+Summer,2000,Sydney,Australia,77,Armenia,0,0,1,1,Armenia,1911563665,3076098
+Summer,2000,Sydney,Australia,78,Qatar,0,0,1,1,Qatar,17759889598,593693
+Summer,2000,Sydney,Australia,79,India,0,0,1,1,India,476609148198,1042261758
+Summer,2000,Sydney,Australia,80,Chile,0,0,1,1,Chile,79328640264,15454402
+Winter,1998,Nagano,Japan,1,Germany,12,9,8,29,Germany,2178170501278,82047195
+Winter,1998,Nagano,Japan,2,Norway,10,10,5,25,Norway,151139149912,4431464
+Winter,1998,Nagano,Japan,3,Russia,9,6,3,18,Russian Federation,270953116950,146899000
+Winter,1998,Nagano,Japan,4,Austria,3,5,9,17,Austria,213329585371,7976789
+Winter,1998,Nagano,Japan,5,Canada,6,5,4,15,Canada,616766430738,30247900
+Winter,1998,Nagano,Japan,6,United States,6,3,4,13,United States,9089100000000,275854000
+Winter,1998,Nagano,Japan,7,Finland,2,4,6,12,Finland,129763017356,5153498
+Winter,1998,Nagano,Japan,8,Netherlands,5,4,2,11,Netherlands,402648300378,15707209
+Winter,1998,Nagano,Japan,9,Japan,5,1,4,10,Japan,3914574887342,126410000
+Winter,1998,Nagano,Japan,10,Italy,2,6,2,10,Italy,1224579873011,56906744
+Winter,1998,Nagano,Japan,11,France,2,1,5,8,France,1468872804092,60185178
+Winter,1998,Nagano,Japan,12,China,0,6,2,8,China,1019458585326,1241935000
+Winter,1998,Nagano,Japan,13,Switzerland,2,2,3,7,Switzerland,278904197267,7110001
+Winter,1998,Nagano,Japan,14,South Korea,3,1,2,6,"Korea, Rep.",345432412376,46287000
+Winter,1998,Nagano,Japan,15,Czech Republic,1,1,1,3,Czech Republic,63863336207,10294373
+Winter,1998,Nagano,Japan,16,Sweden,0,2,1,3,Sweden,254723204065,8850974
+Winter,1998,Nagano,Japan,17,Belarus,0,0,2,2,Belarus,15222014828,10069000
+Winter,1998,Nagano,Japan,18,Kazakhstan,0,0,2,2,Kazakhstan,22135245413,15071300
+Winter,1998,Nagano,Japan,19,Bulgaria,1,0,0,1,Bulgaria,13060786998,8256786
+Winter,1998,Nagano,Japan,20,Denmark,0,1,0,1,Denmark,173653145893,5304219
+Winter,1998,Nagano,Japan,21,Ukraine,0,1,0,1,Ukraine,41883241480,50143939
+Winter,1998,Nagano,Japan,22,Great Britain,0,0,1,1,United Kingdom,1477759191785,58487141
+Winter,1998,Nagano,Japan,23,Australia,0,0,1,1,Australia,399523163535,18711000
+Winter,1998,Nagano,Japan,24,Belgium,0,0,1,1,Belgium,255599022005,10203008
+Summer,1996,Atlanta,United States,1,United States,44,32,25,101,United States,8100200000000,269394000
+Summer,1996,Atlanta,United States,2,Germany,20,18,27,65,Germany,2436963867949,81914831
+Summer,1996,Atlanta,United States,3,Russia,26,21,16,63,Russian Federation,391721392325,147739000
+Summer,1996,Atlanta,United States,4,China,16,22,12,50,China,856084729312,1217550000
+Summer,1996,Atlanta,United States,5,Australia,9,9,23,41,Australia,401579666161,18311000
+Summer,1996,Atlanta,United States,6,France,15,7,15,37,France,1572776381587,59752020
+Summer,1996,Atlanta,United States,7,Italy,13,10,12,35,Italy,1266354134494,56860281
+Summer,1996,Atlanta,United States,8,South Korea,7,15,5,27,"Korea, Rep.",557643607434,45525000
+Summer,1996,Atlanta,United States,9,Cuba,9,8,8,25,Cuba,25017300000,10980758
+Summer,1996,Atlanta,United States,10,Ukraine,9,2,12,23,Ukraine,44558077827,51057189
+Summer,1996,Atlanta,United States,11,Canada,3,11,8,22,Canada,613761642831,29671900
+Summer,1996,Atlanta,United States,12,Hungary,7,4,10,21,Hungary,45930691794,10311238
+Summer,1996,Atlanta,United States,13,Romania,4,7,9,20,Romania,35333677695,22619004
+Summer,1996,Atlanta,United States,14,Netherlands,4,5,10,19,Netherlands,417980392157,15530498
+Summer,1996,Atlanta,United States,15,Poland,7,5,5,17,Poland,156684099254,38624370
+Summer,1996,Atlanta,United States,16,Spain,5,6,6,17,Spain,622428740313,39478186
+Summer,1996,Atlanta,United States,17,Bulgaria,3,7,5,15,Bulgaria,8890316778,8362826
+Summer,1996,Atlanta,United States,18,Brazil,3,3,9,15,Brazil,839682618645,164392423
+Summer,1996,Atlanta,United States,19,Great Britain,1,8,6,15,United Kingdom,1241831513261,58166950
+Summer,1996,Atlanta,United States,20,Belarus,1,6,8,15,Belarus,14756861538,10160000
+Summer,1996,Atlanta,United States,21,Japan,3,6,5,14,Japan,4706187126020,125761000
+Summer,1996,Atlanta,United States,22,Czech Republic,4,3,4,11,Czech Republic,64894609845,10315241
+Summer,1996,Atlanta,United States,23,Kazakhstan,3,4,4,11,Kazakhstan,21035357833,15577894
+Summer,1996,Atlanta,United States,24,Greece,4,4,0,8,Greece,138028597015,10709173
+Summer,1996,Atlanta,United States,25,Sweden,2,4,2,8,Sweden,276456158664,8840998
+Summer,1996,Atlanta,United States,26,Kenya,1,4,3,8,Kenya,12045865466,28186224
+Summer,1996,Atlanta,United States,27,Switzerland,4,3,0,7,Switzerland,312031429538,7071850
+Summer,1996,Atlanta,United States,28,Norway,2,2,3,7,Norway,160158299482,4381336
+Summer,1996,Atlanta,United States,29,Denmark,4,1,1,6,Denmark,184435821822,5263074
+Summer,1996,Atlanta,United States,30,Turkey,4,1,1,6,Turkey,181475555283,59442502
+Summer,1996,Atlanta,United States,31,New Zealand,3,2,1,6,New Zealand,69445176842,3732000
+Summer,1996,Atlanta,United States,32,Belgium,2,2,2,6,Belgium,275796742671,10156637
+Summer,1996,Atlanta,United States,33,Nigeria,2,1,3,6,Nigeria,34987951375,111166210
+Summer,1996,Atlanta,United States,34,Jamaica,1,3,2,6,Jamaica,6527302708,2509923
+Summer,1996,Atlanta,United States,35,South Africa,3,1,1,5,South Africa,143731991361,40000247
+Summer,1996,Atlanta,United States,36,North Korea,2,1,2,5,"Korea, Dem. Rep.",0,22016518
+Summer,1996,Atlanta,United States,37,Ireland,3,0,1,4,Ireland,74364964645,3637510
+Summer,1996,Atlanta,United States,38,Finland,1,2,1,4,Finland,128308309604,5124573
+Summer,1996,Atlanta,United States,39,Serbia and Montenegro,1,1,2,4,Montenegro,0,613774
+Summer,1996,Atlanta,United States,40,Indonesia,1,1,2,4,Indonesia,227369671349,197097887
+Summer,1996,Atlanta,United States,41,Ethiopia,2,0,1,3,Ethiopia,8482883273,58815116
+Summer,1996,Atlanta,United States,42,Algeria,2,0,1,3,Algeria,46941496308,29845208
+Summer,1996,Atlanta,United States,43,Slovakia,1,1,1,3,Slovak Republic,27284429658,5373361
+Summer,1996,Atlanta,United States,44,Iran,1,1,1,3,"Iran, Islamic Rep.",110573439131,61440887
+Summer,1996,Atlanta,United States,45,Argentina,0,2,1,3,Argentina,272149750000,35264070
+Summer,1996,Atlanta,United States,46,Austria,0,1,2,3,Austria,234676456979,7959017
+Summer,1996,Atlanta,United States,47,Croatia,1,1,0,2,Croatia,23341405840,4494000
+Summer,1996,Atlanta,United States,48,Armenia,1,1,0,2,Armenia,1596968913,3173425
+Summer,1996,Atlanta,United States,49,Portugal,1,0,1,2,Portugal,121154795945,10057861
+Summer,1996,Atlanta,United States,50,Thailand,1,0,1,2,Thailand,181947631900,59562136
+Summer,1996,Atlanta,United States,51,Namibia,0,2,0,2,Namibia,3491458688,1705309
+Summer,1996,Atlanta,United States,52,Slovenia,0,2,0,2,Slovenia,21149908176,1988628
+Summer,1996,Atlanta,United States,53,Moldova,0,1,1,2,Moldova,1695130484,3667748
+Summer,1996,Atlanta,United States,54,Uzbekistan,0,1,1,2,Uzbekistan,13948892216,23225000
+Summer,1996,Atlanta,United States,55,Malaysia,0,1,1,2,Malaysia,100851389334,21259831
+Summer,1996,Atlanta,United States,56,Georgia,0,0,2,2,Georgia,3094915506,4616100
+Summer,1996,Atlanta,United States,57,Trinidad and Tobago,0,0,2,2,Trinidad and Tobago,5759537848,1258365
+Summer,1996,Atlanta,United States,58,Morocco,0,0,2,2,Morocco,36638763639,27237150
+Summer,1996,Atlanta,United States,59,Costa Rica,1,0,0,1,Costa Rica,11843228540,3566605
+Summer,1996,Atlanta,United States,60,Hong Kong,1,0,0,1,"Hong Kong SAR, China",159717233622,6435500
+Summer,1996,Atlanta,United States,61,Burundi,1,0,0,1,Burundi,869033856,6294482
+Summer,1996,Atlanta,United States,62,Ecuador,1,0,0,1,Ecuador,24180150997,11557151
+Summer,1996,Atlanta,United States,63,Syria,1,0,0,1,Syrian Arab Republic,13789560878,14746306
+Summer,1996,Atlanta,United States,64,Philippines,0,1,0,1,Philippines,82848194395,71184718
+Summer,1996,Atlanta,United States,65,Tonga,0,1,0,1,Tonga,219583570,96218
+Summer,1996,Atlanta,United States,67,Zambia,0,1,0,1,Zambia,3270303803,9073311
+Summer,1996,Atlanta,United States,68,Bahamas,0,1,0,1,"Bahamas, The",3609000000,283678
+Summer,1996,Atlanta,United States,69,Latvia,0,1,0,1,Latvia,5585292783,2457222
+Summer,1996,Atlanta,United States,70,Azerbaijan,0,1,0,1,Azerbaijan,3176749593,7763000
+Summer,1996,Atlanta,United States,71,Mozambique,0,0,1,1,Mozambique,3241719358,16463426
+Summer,1996,Atlanta,United States,72,Israel,0,0,1,1,Israel,105100103996,5692000
+Summer,1996,Atlanta,United States,73,Mongolia,0,0,1,1,Mongolia,1345719435,2316598
+Summer,1996,Atlanta,United States,74,Tunisia,0,0,1,1,Tunisia,19587322786,9089300
+Summer,1996,Atlanta,United States,75,Puerto Rico,0,0,1,1,Puerto Rico,45341000000,3724655
+Summer,1996,Atlanta,United States,76,Lithuania,0,0,1,1,Lithuania,8426600000,3601613
+Summer,1996,Atlanta,United States,77,India,0,0,1,1,India,399786888571,973147577
+Summer,1996,Atlanta,United States,78,Uganda,0,0,1,1,Uganda,6044585327,21407693
+Summer,1996,Atlanta,United States,79,Mexico,0,0,1,1,Mexico,401777516321,97201533
+Winter,1994,Lillehammer,Norway,1,Norway,10,11,5,26,Norway,124519241669,4336613
+Winter,1994,Lillehammer,Norway,2,Germany,9,7,8,24,Germany,2148005303122,81438348
+Winter,1994,Lillehammer,Norway,3,Russia,11,8,4,23,Russian Federation,395086555837,148336000
+Winter,1994,Lillehammer,Norway,4,Italy,7,5,8,20,Italy,1059079564102,56843400
+Winter,1994,Lillehammer,Norway,5,United States,6,5,2,13,United States,7308700000000,263126000
+Winter,1994,Lillehammer,Norway,6,Canada,3,6,4,13,Canada,564493995313,29111906
+Winter,1994,Lillehammer,Norway,7,Switzerland,3,4,2,9,Switzerland,276720695310,6993795
+Winter,1994,Lillehammer,Norway,8,Austria,2,3,4,9,Austria,201444060957,7936118
+Winter,1994,Lillehammer,Norway,9,South Korea,4,1,1,6,"Korea, Rep.",423434190055,44453000
+Winter,1994,Lillehammer,Norway,10,Finland,0,1,5,6,Finland,100630620376,5088333
+Winter,1994,Lillehammer,Norway,11,Japan,1,2,2,5,Japan,4850348016492,124961000
+Winter,1994,Lillehammer,Norway,12,France,0,1,4,5,France,1368008034026,59325793
+Winter,1994,Lillehammer,Norway,13,Netherlands,0,1,3,4,Netherlands,351190216733,15382838
+Winter,1994,Lillehammer,Norway,14,Sweden,2,1,0,3,Sweden,217546397097,8780745
+Winter,1994,Lillehammer,Norway,15,Kazakhstan,1,2,0,3,Kazakhstan,21250839258,16095199
+Winter,1994,Lillehammer,Norway,16,China,0,1,2,3,China,559224707281,1191835000
+Winter,1994,Lillehammer,Norway,17,Slovenia,0,0,3,3,Slovenia,14385505626,1989443
+Winter,1994,Lillehammer,Norway,18,Ukraine,1,0,1,2,Ukraine,52549555010,51921041
+Winter,1994,Lillehammer,Norway,19,Belarus,0,2,0,2,Belarus,14931599418,10227000
+Winter,1994,Lillehammer,Norway,20,Great Britain,0,0,2,2,United Kingdom,1080029078665,57865745
+Winter,1994,Lillehammer,Norway,21,Uzbekistan,1,0,0,1,Uzbekistan,12899074347,22377000
+Winter,1994,Lillehammer,Norway,22,Australia,0,0,1,1,Australia,322830854376,17855000
+Summer,1992,Barcelona,Spain,2,United States,37,34,37,108,United States,6539300000000,256514000
+Summer,1992,Barcelona,Spain,3,Germany,33,21,28,82,Germany,2064370695053,80624598
+Summer,1992,Barcelona,Spain,4,China,16,22,16,54,China,422660918111,1164970000
+Summer,1992,Barcelona,Spain,5,Cuba,14,6,11,31,Cuba,22085858204,10757891
+Summer,1992,Barcelona,Spain,6,Hungary,11,12,7,30,Hungary,38009547806,10369341
+Summer,1992,Barcelona,Spain,7,South Korea,12,5,12,29,"Korea, Rep.",329885864344,43663000
+Summer,1992,Barcelona,Spain,8,France,8,5,16,29,France,1372967781908,58849212
+Summer,1992,Barcelona,Spain,9,Australia,7,9,11,27,Australia,325389525494,17495000
+Summer,1992,Barcelona,Spain,10,Spain,13,7,2,22,Spain,612583910505,39067745
+Summer,1992,Barcelona,Spain,11,Japan,3,8,11,22,Japan,3852794371594,124229000
+Summer,1992,Barcelona,Spain,12,Great Britain,5,3,12,20,United Kingdom,1106226746227,57580402
+Summer,1992,Barcelona,Spain,13,Italy,6,5,8,19,Italy,1271956871335,56797087
+Summer,1992,Barcelona,Spain,14,Poland,3,6,10,19,Poland,92295029651,38363667
+Summer,1992,Barcelona,Spain,15,Canada,7,4,7,18,Canada,579531728303,28519597
+Summer,1992,Barcelona,Spain,16,Romania,4,6,8,18,Romania,25090303817,22794284
+Summer,1992,Barcelona,Spain,17,Bulgaria,3,7,6,16,Bulgaria,10371900499,8540164
+Summer,1992,Barcelona,Spain,18,Netherlands,2,6,7,15,Netherlands,336214285714,15184166
+Summer,1992,Barcelona,Spain,19,Sweden,1,7,4,12,Sweden,269747415777,8668067
+Summer,1992,Barcelona,Spain,20,New Zealand,1,4,5,10,New Zealand,41210013983,3531700
+Summer,1992,Barcelona,Spain,21,North Korea,4,0,5,9,"Korea, Dem. Rep.",0,20838090
+Summer,1992,Barcelona,Spain,22,Kenya,2,4,2,8,Kenya,8209120678,25036941
+Summer,1992,Barcelona,Spain,23,Czechoslovakia,4,2,1,7,Czech Republic,33439461247,10319123
+Summer,1992,Barcelona,Spain,24,Norway,2,4,1,7,Norway,128298978196,4286401
+Summer,1992,Barcelona,Spain,25,Turkey,2,2,2,6,Turkey,159095003188,55815175
+Summer,1992,Barcelona,Spain,26,Denmark,1,1,4,6,Denmark,150195490466,5171370
+Summer,1992,Barcelona,Spain,27,Indonesia,2,2,1,5,Indonesia,139116270052,184916848
+Summer,1992,Barcelona,Spain,28,Finland,1,2,2,5,Finland,110171223786,5041992
+Summer,1992,Barcelona,Spain,29,Jamaica,0,3,1,4,Jamaica,3535452386,2423044
+Summer,1992,Barcelona,Spain,30,Nigeria,0,3,1,4,Nigeria,29300921687,100592242
+Summer,1992,Barcelona,Spain,31,Brazil,2,1,0,3,Brazil,390566551484,154597985
+Summer,1992,Barcelona,Spain,32,Morocco,1,1,1,3,Morocco,28450632467,25569662
+Summer,1992,Barcelona,Spain,33,Ethiopia,1,0,2,3,Ethiopia,10413161613,51525658
+Summer,1992,Barcelona,Spain,34,Latvia,0,2,1,3,Latvia,4848056772,2614338
+Summer,1992,Barcelona,Spain,35,Iran,0,1,2,3,"Iran, Islamic Rep.",0,58307457
+Summer,1992,Barcelona,Spain,36,Belgium,0,1,2,3,Belgium,231923859990,10045158
+Summer,1992,Barcelona,Spain,37,Croatia,0,1,2,3,Croatia,10279479681,4470000
+Summer,1992,Barcelona,Spain,39,Greece,2,0,0,2,Greece,110827664282,10369866
+Summer,1992,Barcelona,Spain,40,Ireland,1,1,0,2,Ireland,54914168296,3558430
+Summer,1992,Barcelona,Spain,41,Estonia,1,0,1,2,Estonia,0,1533091
+Summer,1992,Barcelona,Spain,42,Algeria,1,0,1,2,Algeria,48003297249,27535151
+Summer,1992,Barcelona,Spain,43,Lithuania,1,0,1,2,Lithuania,8562311027,3700114
+Summer,1992,Barcelona,Spain,44,South Africa,0,2,0,2,South Africa,130513031863,36690739
+Summer,1992,Barcelona,Spain,45,Namibia,0,2,0,2,Namibia,2837643689,1513689
+Summer,1992,Barcelona,Spain,46,Austria,0,2,0,2,Austria,193073835462,7840709
+Summer,1992,Barcelona,Spain,47,Israel,0,1,1,2,Israel,65771216221,5123000
+Summer,1992,Barcelona,Spain,48,Slovenia,0,0,2,2,Slovenia,12522536279,1996498
+Summer,1992,Barcelona,Spain,49,Mongolia,0,0,2,2,Mongolia,1317611863,2243525
+Summer,1992,Barcelona,Spain,50,Switzerland,1,0,0,1,Switzerland,257022107044,6875364
+Summer,1992,Barcelona,Spain,52,Mexico,0,1,0,1,Mexico,363609268789,89757916
+Summer,1992,Barcelona,Spain,53,Peru,0,1,0,1,Peru,36084008139,22649612
+Summer,1992,Barcelona,Spain,54,Suriname,0,0,1,1,Suriname,404600000,418700
+Summer,1992,Barcelona,Spain,55,Philippines,0,0,1,1,Philippines,52976363148,64996507
+Summer,1992,Barcelona,Spain,56,Puerto Rico,0,0,1,1,Puerto Rico,34630000000,3585176
+Summer,1992,Barcelona,Spain,57,Thailand,0,0,1,1,Thailand,111452745857,57661001
+Summer,1992,Barcelona,Spain,58,Ghana,0,0,1,1,Ghana,6416079583,15471695
+Summer,1992,Barcelona,Spain,59,Pakistan,0,0,1,1,Pakistan,48635242274,117291344
+Summer,1992,Barcelona,Spain,60,Malaysia,0,0,1,1,Malaysia,59151684123,19205112
+Summer,1992,Barcelona,Spain,61,Argentina,0,0,1,1,Argentina,228779382768,33520803
+Summer,1992,Barcelona,Spain,62,Qatar,0,0,1,1,Qatar,7646153766,489606
+Summer,1992,Barcelona,Spain,63,Bahamas,0,0,1,1,"Bahamas, The",3109000000,266097
+Summer,1992,Barcelona,Spain,64,Colombia,0,0,1,1,Colombia,49279585355,34608171
+Winter,1992,Albertville,France,1,Germany,10,10,6,26,Germany,2064370695053,80624598
+Winter,1992,Albertville,France,3,Austria,6,7,8,21,Austria,193073835462,7840709
+Winter,1992,Albertville,France,4,Norway,9,6,5,20,Norway,128298978196,4286401
+Winter,1992,Albertville,France,5,Italy,4,6,4,14,Italy,1271956871335,56797087
+Winter,1992,Albertville,France,6,United States,5,4,2,11,United States,6539300000000,256514000
+Winter,1992,Albertville,France,7,France,3,5,1,9,France,1372967781908,58849212
+Winter,1992,Albertville,France,8,Finland,3,1,3,7,Finland,110171223786,5041992
+Winter,1992,Albertville,France,9,Canada,2,3,2,7,Canada,579531728303,28519597
+Winter,1992,Albertville,France,10,Japan,1,2,4,7,Japan,3852794371594,124229000
+Winter,1992,Albertville,France,11,South Korea,2,1,1,4,"Korea, Rep.",329885864344,43663000
+Winter,1992,Albertville,France,12,Netherlands,1,1,2,4,Netherlands,336214285714,15184166
+Winter,1992,Albertville,France,13,Sweden,1,0,3,4,Sweden,269747415777,8668067
+Winter,1992,Albertville,France,14,Switzerland,1,0,2,3,Switzerland,257022107044,6875364
+Winter,1992,Albertville,France,15,China,0,3,0,3,China,422660918111,1164970000
+Winter,1992,Albertville,France,16,Czechoslovakia,0,0,3,3,Czech Republic,33439461247,10319123
+Winter,1992,Albertville,France,17,Luxembourg,0,2,0,2,Luxembourg,15384954868,392175
+Winter,1992,Albertville,France,18,New Zealand,0,1,0,1,New Zealand,41210013983,3531700
+Winter,1992,Albertville,France,19,Spain,0,0,1,1,Spain,612583910505,39067745
+Winter,1992,Albertville,France,20,North Korea,0,0,1,1,"Korea, Dem. Rep.",0,20838090
+Summer,1988,Seoul,South Korea,1,Soviet Union,55,31,46,132,Russian Federation,0,146857000
+Summer,1988,Seoul,South Korea,2,East Germany,37,35,30,102,Germany,1355992248618,78144619
+Summer,1988,Seoul,South Korea,3,United States,36,31,27,94,United States,5252600000000,244499000
+Summer,1988,Seoul,South Korea,4,West Germany,11,14,15,40,Germany,1355992248618,78144619
+Summer,1988,Seoul,South Korea,5,Bulgaria,10,12,13,35,Bulgaria,23002459532,8981446
+Summer,1988,Seoul,South Korea,6,South Korea,12,10,11,33,"Korea, Rep.",187446511819,41975000
+Summer,1988,Seoul,South Korea,7,China,5,11,12,28,China,309522625242,1101630000
+Summer,1988,Seoul,South Korea,8,Romania,7,11,6,24,Romania,40424526826,23057662
+Summer,1988,Seoul,South Korea,9,Great Britain,5,10,9,24,United Kingdom,851138384916,56928327
+Summer,1988,Seoul,South Korea,10,Hungary,11,6,6,23,Hungary,28570620031,10596487
+Summer,1988,Seoul,South Korea,11,France,6,4,6,16,France,1001159453805,57803824
+Summer,1988,Seoul,South Korea,12,Poland,2,5,9,16,Poland,68823925668,37824487
+Summer,1988,Seoul,South Korea,13,Italy,6,4,4,14,Italy,859052483314,56629288
+Summer,1988,Seoul,South Korea,14,Japan,4,3,7,14,Japan,3015393553892,122613000
+Summer,1988,Seoul,South Korea,15,Australia,3,6,5,14,Australia,236924476135,16532200
+Summer,1988,Seoul,South Korea,16,New Zealand,3,2,8,13,New Zealand,44770068058,3283400
+Summer,1988,Seoul,South Korea,17,Yugoslavia,3,4,5,12,"Macedonia, FYR",0,1995338
+Summer,1988,Seoul,South Korea,18,Sweden,0,4,7,11,Sweden,196376974801,8436489
+Summer,1988,Seoul,South Korea,19,Canada,3,2,5,10,Canada,498166896888,26895000
+Summer,1988,Seoul,South Korea,20,Kenya,5,2,2,9,Kenya,8355380879,21896890
+Summer,1988,Seoul,South Korea,21,Netherlands,2,2,5,9,Netherlands,242608986509,14760094
+Summer,1988,Seoul,South Korea,22,Czechoslovakia,3,3,2,8,Czech Republic,0,10355276
+Summer,1988,Seoul,South Korea,23,Brazil,1,2,3,6,Brazil,330397381998,144452622
+Summer,1988,Seoul,South Korea,24,Norway,2,3,0,5,Norway,100057081479,4209488
+Summer,1988,Seoul,South Korea,25,Denmark,2,1,1,4,Denmark,113230780658,5129516
+Summer,1988,Seoul,South Korea,26,Spain,1,1,2,4,Spain,365230566611,38715849
+Summer,1988,Seoul,South Korea,27,Finland,1,1,2,4,Finland,107182658138,4946481
+Summer,1988,Seoul,South Korea,28,Switzerland,0,2,2,4,Switzerland,197908057169,6593386
+Summer,1988,Seoul,South Korea,29,Morocco,1,0,2,3,Morocco,22198388384,23739980
+Summer,1988,Seoul,South Korea,30,Turkey,1,1,0,2,Turkey,90852814005,52125597
+Summer,1988,Seoul,South Korea,31,Jamaica,0,2,0,2,Jamaica,3828342820,2356400
+Summer,1988,Seoul,South Korea,32,Argentina,0,1,1,2,Argentina,126206817196,31713147
+Summer,1988,Seoul,South Korea,33,Belgium,0,0,2,2,Belgium,160323578328,9901664
+Summer,1988,Seoul,South Korea,34,Mexico,0,0,2,2,Mexico,183144276294,82635332
+Summer,1988,Seoul,South Korea,35,Suriname,1,0,0,1,Suriname,1160900000,393483
+Summer,1988,Seoul,South Korea,36,Austria,1,0,0,1,Austria,131969428285,7585317
+Summer,1988,Seoul,South Korea,37,Portugal,1,0,0,1,Portugal,55595568641,10019610
+Summer,1988,Seoul,South Korea,38,Chile,0,1,0,1,Chile,24640912616,12757095
+Summer,1988,Seoul,South Korea,39,Iran,0,1,0,1,"Iran, Islamic Rep.",116305831423,53250434
+Summer,1988,Seoul,South Korea,40,Costa Rica,0,1,0,1,Costa Rica,6063759371,2924348
+Summer,1988,Seoul,South Korea,41,United States Virgin Islands,0,1,0,1,Virgin Islands (U.S.),1204600064,104500
+Summer,1988,Seoul,South Korea,43,Peru,0,1,0,1,Peru,12375610634,20875714
+Summer,1988,Seoul,South Korea,44,Indonesia,0,1,0,1,Indonesia,88787623310,172265107
+Summer,1988,Seoul,South Korea,45,Senegal,0,1,0,1,Senegal,4985152887,7062329
+Summer,1988,Seoul,South Korea,46,Philippines,0,0,1,1,Philippines,37885485203,58867229
+Summer,1988,Seoul,South Korea,47,Colombia,0,0,1,1,Colombia,39212545681,32009024
+Summer,1988,Seoul,South Korea,48,Thailand,0,0,1,1,Thailand,61667254411,54956736
+Summer,1988,Seoul,South Korea,49,Mongolia,0,0,1,1,Mongolia,3204461568,2089721
+Summer,1988,Seoul,South Korea,50,Pakistan,0,0,1,1,Pakistan,38472741071,104583470
+Summer,1988,Seoul,South Korea,51,Djibouti,0,0,1,1,Djibouti,395794554,524393
+Summer,1988,Seoul,South Korea,52,Greece,0,0,1,1,Greece,72720009814,10036983
+Winter,1988,Calgary,Canada,1,Soviet Union,11,9,9,29,Russian Federation,0,146857000
+Winter,1988,Calgary,Canada,2,East Germany,9,10,6,25,Germany,1355992248618,78144619
+Winter,1988,Calgary,Canada,3,Switzerland,5,5,5,15,Switzerland,197908057169,6593386
+Winter,1988,Calgary,Canada,4,Austria,3,5,2,10,Austria,131969428285,7585317
+Winter,1988,Calgary,Canada,5,West Germany,2,4,2,8,Germany,1355992248618,78144619
+Winter,1988,Calgary,Canada,6,Finland,4,1,2,7,Finland,107182658138,4946481
+Winter,1988,Calgary,Canada,7,Netherlands,3,2,2,7,Netherlands,242608986509,14760094
+Winter,1988,Calgary,Canada,8,Sweden,4,0,2,6,Sweden,196376974801,8436489
+Winter,1988,Calgary,Canada,9,United States,2,1,3,6,United States,5252600000000,244499000
+Winter,1988,Calgary,Canada,10,Italy,2,1,2,5,Italy,859052483314,56629288
+Winter,1988,Calgary,Canada,11,Norway,0,3,2,5,Norway,100057081479,4209488
+Winter,1988,Calgary,Canada,12,Canada,0,2,3,5,Canada,498166896888,26895000
+Winter,1988,Calgary,Canada,13,Yugoslavia,0,2,1,3,"Macedonia, FYR",0,1995338
+Winter,1988,Calgary,Canada,14,Czechoslovakia,0,1,2,3,Czech Republic,0,10355276
+Winter,1988,Calgary,Canada,15,France,1,0,1,2,France,1001159453805,57803824
+Winter,1988,Calgary,Canada,16,Liechtenstein,0,0,1,1,Liechtenstein,1161757671,28089
+Winter,1988,Calgary,Canada,17,Japan,0,0,1,1,Japan,3015393553892,122613000
+Summer,1984,Los Angeles,United States,1,United States,83,61,30,174,United States,4040700000000,235825000
+Summer,1984,Los Angeles,United States,2,West Germany,17,19,23,59,Germany,701699792253,77858685
+Summer,1984,Los Angeles,United States,3,Romania,20,16,17,53,Romania,0,22655940
+Summer,1984,Los Angeles,United States,4,Canada,10,18,16,44,Canada,347140761331,25702000
+Summer,1984,Los Angeles,United States,5,Great Britain,5,11,21,37,United Kingdom,438830806065,56422072
+Summer,1984,Los Angeles,United States,6,China,15,8,9,32,China,257432147241,1036825000
+Summer,1984,Los Angeles,United States,7,Italy,14,6,12,32,Italy,421898527725,56576718
+Summer,1984,Los Angeles,United States,8,Japan,10,8,14,32,Japan,1294608503865,120018000
+Summer,1984,Los Angeles,United States,9,France,5,7,16,28,France,521686181791,56489874
+Summer,1984,Los Angeles,United States,10,Australia,4,8,12,24,Australia,193593551893,15544000
+Summer,1984,Los Angeles,United States,11,South Korea,6,6,7,19,"Korea, Rep.",93210997792,40406000
+Summer,1984,Los Angeles,United States,12,Sweden,2,11,6,19,Sweden,103603931430,8336605
+Summer,1984,Los Angeles,United States,13,Yugoslavia,7,4,7,18,"Macedonia, FYR",0,1939913
+Summer,1984,Los Angeles,United States,14,Netherlands,5,2,6,13,Netherlands,133307005495,14424211
+Summer,1984,Los Angeles,United States,15,Finland,4,2,6,12,Finland,52118124258,4881803
+Summer,1984,Los Angeles,United States,16,New Zealand,8,1,2,11,New Zealand,21435165426,3227100
+Summer,1984,Los Angeles,United States,17,Brazil,1,5,2,8,Brazil,209023912697,133364277
+Summer,1984,Los Angeles,United States,18,Switzerland,0,4,4,8,Switzerland,100501184695,6441865
+Summer,1984,Los Angeles,United States,19,Mexico,2,3,1,6,Mexico,175632163244,76351106
+Summer,1984,Los Angeles,United States,20,Denmark,0,3,3,6,Denmark,57714597455,5111619
+Summer,1984,Los Angeles,United States,21,Spain,1,2,2,5,Spain,167102230764,38278575
+Summer,1984,Los Angeles,United States,22,Belgium,1,1,2,4,Belgium,82334988808,9855372
+Summer,1984,Los Angeles,United States,23,Austria,1,1,1,3,Austria,67286843408,7561434
+Summer,1984,Los Angeles,United States,24,Kenya,1,0,2,3,Kenya,6191437070,18942464
+Summer,1984,Los Angeles,United States,25,Portugal,1,0,2,3,Portugal,24881557290,9996232
+Summer,1984,Los Angeles,United States,26,Norway,0,1,2,3,Norway,61098572566,4140099
+Summer,1984,Los Angeles,United States,27,Jamaica,0,1,2,3,Jamaica,2373564501,2279900
+Summer,1984,Los Angeles,United States,28,Venezuela,0,0,3,3,"Venezuela, RB",55952339080,16867806
+Summer,1984,Los Angeles,United States,29,Turkey,0,0,3,3,Turkey,59989909458,48138191
+Summer,1984,Los Angeles,United States,30,Morocco,2,0,0,2,Morocco,12751251348,21776104
+Summer,1984,Los Angeles,United States,31,Puerto Rico,0,1,1,2,Puerto Rico,19163000000,3344190
+Summer,1984,Los Angeles,United States,32,Nigeria,0,1,1,2,Nigeria,28500815241,81775217
+Summer,1984,Los Angeles,United States,33,Greece,0,1,1,2,Greece,45790167010,9895801
+Summer,1984,Los Angeles,United States,34,Algeria,0,0,2,2,Algeria,53698280323,22150483
+Summer,1984,Los Angeles,United States,35,Pakistan,1,0,0,1,Pakistan,31151825048,91643160
+Summer,1984,Los Angeles,United States,36,Egypt,0,1,0,1,"Egypt, Arab Rep.",30642873686,49190419
+Summer,1984,Los Angeles,United States,37,Thailand,0,1,0,1,Thailand,41797647302,51090390
+Summer,1984,Los Angeles,United States,38,Cote d'Ivoire,0,1,0,1,Cote d'Ivoire,6841639250,9771533
+Summer,1984,Los Angeles,United States,39,Ireland,0,1,0,1,Ireland,19745507272,3532423
+Summer,1984,Los Angeles,United States,40,Colombia,0,1,0,1,Colombia,38253120738,29438030
+Summer,1984,Los Angeles,United States,41,Peru,0,1,0,1,Peru,19845514734,19081183
+Summer,1984,Los Angeles,United States,42,Syria,0,1,0,1,Syrian Arab Republic,17503082977,10313558
+Summer,1984,Los Angeles,United States,43,Iceland,0,0,1,1,Iceland,2822006038,239511
+Summer,1984,Los Angeles,United States,44,Zambia,0,0,1,1,Zambia,2719518827,6636560
+Summer,1984,Los Angeles,United States,45,Dominican Republic,0,0,1,1,Dominican Republic,10330399744,6381602
+Summer,1984,Los Angeles,United States,46,Cameroon,0,0,1,1,Cameroon,7801858401,10070779
+Winter,1984,Sarajevo,Yugoslavia,1,Soviet Union,6,10,9,25,Russian Federation,0,142745000
+Winter,1984,Sarajevo,Yugoslavia,2,East Germany,9,9,6,24,Germany,701699792253,77858685
+Winter,1984,Sarajevo,Yugoslavia,3,Finland,4,3,6,13,Finland,52118124258,4881803
+Winter,1984,Sarajevo,Yugoslavia,4,Norway,3,2,4,9,Norway,61098572566,4140099
+Winter,1984,Sarajevo,Yugoslavia,5,United States,4,4,0,8,United States,4040700000000,235825000
+Winter,1984,Sarajevo,Yugoslavia,6,Sweden,4,2,2,8,Sweden,103603931430,8336605
+Winter,1984,Sarajevo,Yugoslavia,7,Czechoslovakia,0,2,4,6,Czech Republic,0,10330213
+Winter,1984,Sarajevo,Yugoslavia,8,Switzerland,2,2,1,5,Switzerland,100501184695,6441865
+Winter,1984,Sarajevo,Yugoslavia,9,West Germany,2,1,1,4,Germany,701699792253,77858685
+Winter,1984,Sarajevo,Yugoslavia,10,Canada,2,1,1,4,Canada,347140761331,25702000
+Winter,1984,Sarajevo,Yugoslavia,11,France,0,1,2,3,France,521686181791,56489874
+Winter,1984,Sarajevo,Yugoslavia,12,Italy,2,0,0,2,Italy,421898527725,56576718
+Winter,1984,Sarajevo,Yugoslavia,13,Liechtenstein,0,0,2,2,Liechtenstein,502620921,27009
+Winter,1984,Sarajevo,Yugoslavia,14,Great Britain,1,0,0,1,United Kingdom,438830806065,56422072
+Winter,1984,Sarajevo,Yugoslavia,15,Yugoslavia,0,1,0,1,"Macedonia, FYR",0,1939913
+Winter,1984,Sarajevo,Yugoslavia,16,Japan,0,1,0,1,Japan,1294608503865,120018000
+Winter,1984,Sarajevo,Yugoslavia,17,Austria,0,0,1,1,Austria,67286843408,7561434
+Summer,1980,Moskva,Soviet Union,1,Soviet Union,80,69,46,195,Russian Federation,0,139010000
+Summer,1980,Moskva,Soviet Union,2,East Germany,47,37,42,126,Germany,919609249883,78288576
+Summer,1980,Moskva,Soviet Union,3,Bulgaria,8,16,17,41,Bulgaria,20039628408,8861535
+Summer,1980,Moskva,Soviet Union,4,Hungary,7,10,15,32,Hungary,22163405825,10711122
+Summer,1980,Moskva,Soviet Union,5,Poland,3,14,15,32,Poland,0,35574150
+Summer,1980,Moskva,Soviet Union,6,Romania,6,6,13,25,Romania,0,22242653
+Summer,1980,Moskva,Soviet Union,7,Great Britain,5,7,9,21,United Kingdom,541910295143,56314216
+Summer,1980,Moskva,Soviet Union,8,Cuba,8,7,5,20,Cuba,19912889808,9835085
+Summer,1980,Moskva,Soviet Union,9,Italy,8,3,4,15,Italy,459830080798,56433883
+Summer,1980,Moskva,Soviet Union,10,France,6,5,3,14,France,690324433406,55224670
+Summer,1980,Moskva,Soviet Union,11,Czechoslovakia,2,3,9,14,Czech Republic,0,10304193
+Summer,1980,Moskva,Soviet Union,12,Sweden,3,3,6,12,Sweden,134808728958,8310531
+Summer,1980,Moskva,Soviet Union,13,Yugoslavia,2,3,4,9,"Macedonia, FYR",0,1895727
+Summer,1980,Moskva,Soviet Union,14,Australia,2,2,5,9,Australia,149957660167,14692000
+Summer,1980,Moskva,Soviet Union,15,Finland,3,1,4,8,Finland,53007650622,4779535
+Summer,1980,Moskva,Soviet Union,16,Spain,1,3,2,6,Spain,226003471829,37439035
+Summer,1980,Moskva,Soviet Union,17,Denmark,2,1,2,5,Denmark,69709363190,5123027
+Summer,1980,Moskva,Soviet Union,18,North Korea,0,3,2,5,"Korea, Dem. Rep.",0,17372172
+Summer,1980,Moskva,Soviet Union,19,Brazil,2,0,2,4,Brazil,235024598984,121740438
+Summer,1980,Moskva,Soviet Union,20,Ethiopia,2,0,2,4,Ethiopia,0,35241209
+Summer,1980,Moskva,Soviet Union,21,Austria,1,2,1,4,Austria,81215814720,7549433
+Summer,1980,Moskva,Soviet Union,22,Mongolia,0,2,2,4,Mongolia,0,1689621
+Summer,1980,Moskva,Soviet Union,23,Mexico,0,1,3,4,Mexico,194356825709,70353013
+Summer,1980,Moskva,Soviet Union,24,Greece,1,0,2,3,Greece,54190721018,9642505
+Summer,1980,Moskva,Soviet Union,25,Netherlands,0,1,2,3,Netherlands,180770339171,14149800
+Summer,1980,Moskva,Soviet Union,26,Jamaica,0,0,3,3,Jamaica,2679379401,2133000
+Summer,1980,Moskva,Soviet Union,27,Switzerland,2,0,0,2,Switzerland,112531847652,6319408
+Summer,1980,Moskva,Soviet Union,28,Tanzania,0,2,0,2,Tanzania,0,18686808
+Summer,1980,Moskva,Soviet Union,29,Ireland,0,1,1,2,Ireland,21357236498,3412800
+Summer,1980,Moskva,Soviet Union,30,Belgium,1,0,0,1,Belgium,125285531605,9859242
+Summer,1980,Moskva,Soviet Union,31,India,1,0,0,1,India,189594121314,698965575
+Summer,1980,Moskva,Soviet Union,32,Zimbabwe,1,0,0,1,Zimbabwe,6678868224,7289069
+Summer,1980,Moskva,Soviet Union,33,Venezuela,0,1,0,1,"Venezuela, RB",67135122864,15096432
+Summer,1980,Moskva,Soviet Union,34,Uganda,0,1,0,1,Uganda,1244610000,12549779
+Summer,1980,Moskva,Soviet Union,35,Guyana,0,0,1,1,Guyana,603200000,776927
+Summer,1980,Moskva,Soviet Union,36,Lebanon,0,0,1,1,Lebanon,0,2605294
+Winter,1980,Lake Placid,United States,1,East Germany,9,7,7,23,Germany,919609249883,78288576
+Winter,1980,Lake Placid,United States,2,Soviet Union,10,6,6,22,Russian Federation,0,139010000
+Winter,1980,Lake Placid,United States,3,United States,6,4,2,12,United States,2862500000000,227225000
+Winter,1980,Lake Placid,United States,4,Norway,1,3,6,10,Norway,63714366699,4085620
+Winter,1980,Lake Placid,United States,5,Finland,1,5,3,9,Finland,53007650622,4779535
+Winter,1980,Lake Placid,United States,6,Austria,3,2,2,7,Austria,81215814720,7549433
+Winter,1980,Lake Placid,United States,7,Switzerland,1,1,3,5,Switzerland,112531847652,6319408
+Winter,1980,Lake Placid,United States,8,West Germany,0,2,3,5,Germany,919609249883,78288576
+Winter,1980,Lake Placid,United States,9,Sweden,3,0,1,4,Sweden,134808728958,8310531
+Winter,1980,Lake Placid,United States,10,Liechtenstein,2,2,0,4,Liechtenstein,534699257,25869
+Winter,1980,Lake Placid,United States,11,Netherlands,1,2,1,4,Netherlands,180770339171,14149800
+Winter,1980,Lake Placid,United States,12,Italy,0,2,0,2,Italy,459830080798,56433883
+Winter,1980,Lake Placid,United States,13,Canada,0,1,1,2,Canada,268893260349,24593000
+Winter,1980,Lake Placid,United States,14,Great Britain,1,0,0,1,United Kingdom,541910295143,56314216
+Winter,1980,Lake Placid,United States,15,Japan,0,1,0,1,Japan,1086988088501,116782000
+Winter,1980,Lake Placid,United States,16,Hungary,0,1,0,1,Hungary,22163405825,10711122
+Winter,1980,Lake Placid,United States,17,France,0,0,1,1,France,690324433406,55224670
+Winter,1980,Lake Placid,United States,18,Bulgaria,0,0,1,1,Bulgaria,20039628408,8861535
+Winter,1980,Lake Placid,United States,19,Czechoslovakia,0,0,1,1,Czech Republic,0,10304193
+Summer,1976,Montreal,Canada,1,Soviet Union,49,41,35,125,Russian Federation,0,135146686
+Summer,1976,Montreal,Canada,2,United States,34,35,25,94,United States,1877600000000,218035000
+Summer,1976,Montreal,Canada,3,East Germany,40,25,25,90,Germany,502973378650,78336950
+Summer,1976,Montreal,Canada,4,West Germany,10,12,17,39,Germany,502973378650,78336950
+Summer,1976,Montreal,Canada,5,Romania,4,9,14,27,Romania,0,21551634
+Summer,1976,Montreal,Canada,6,Poland,7,6,13,26,Poland,0,34356300
+Summer,1976,Montreal,Canada,7,Japan,9,6,10,25,Japan,576405865273,112771000
+Summer,1976,Montreal,Canada,8,Bulgaria,6,9,7,22,Bulgaria,0,8758599
+Summer,1976,Montreal,Canada,9,Hungary,4,5,13,22,Hungary,12689645219,10598677
+Summer,1976,Montreal,Canada,10,Cuba,6,4,3,13,Cuba,13789579893,9543798
+Summer,1976,Montreal,Canada,11,Great Britain,3,5,5,13,United Kingdom,227154794943,56211968
+Summer,1976,Montreal,Canada,12,Italy,2,7,4,13,Italy,216511885599,55718260
+Summer,1976,Montreal,Canada,13,Canada,0,5,6,11,Canada,202833671400,23518000
+Summer,1976,Montreal,Canada,14,France,2,3,4,9,France,367269735045,54328016
+Summer,1976,Montreal,Canada,15,Yugoslavia,2,3,3,8,"Macedonia, FYR",0,1795556
+Summer,1976,Montreal,Canada,16,Czechoslovakia,2,2,4,8,Czech Republic,0,10125939
+Summer,1976,Montreal,Canada,17,Finland,4,2,0,6,Finland,31470995538,4725664
+Summer,1976,Montreal,Canada,18,South Korea,1,1,4,6,"Korea, Rep.",29554752066,35849000
+Summer,1976,Montreal,Canada,19,Belgium,0,3,3,6,Belgium,70248275973,9818227
+Summer,1976,Montreal,Canada,20,Sweden,4,1,0,5,Sweden,84781560642,8222286
+Summer,1976,Montreal,Canada,21,Netherlands,0,2,3,5,Netherlands,101123520587,13774037
+Summer,1976,Montreal,Canada,22,Australia,0,1,4,5,Australia,105025841422,14033000
+Summer,1976,Montreal,Canada,23,New Zealand,2,1,1,4,New Zealand,13515337003,3110500
+Summer,1976,Montreal,Canada,24,Switzerland,1,1,2,4,Switzerland,0,6302504
+Summer,1976,Montreal,Canada,25,Denmark,1,0,2,3,Denmark,43676095947,5072596
+Summer,1976,Montreal,Canada,26,North Korea,1,1,0,2,"Korea, Dem. Rep.",0,16539033
+Summer,1976,Montreal,Canada,27,Jamaica,1,1,0,2,Jamaica,2966042882,2037716
+Summer,1976,Montreal,Canada,28,Norway,1,1,0,2,Norway,35575735361,4026152
+Summer,1976,Montreal,Canada,29,Mexico,1,0,1,2,Mexico,89023916067,63486196
+Summer,1976,Montreal,Canada,30,Spain,0,2,0,2,Spain,115063799205,35939437
+Summer,1976,Montreal,Canada,31,Portugal,0,2,0,2,Portugal,20061590258,9355810
+Summer,1976,Montreal,Canada,32,Iran,0,1,1,2,"Iran, Islamic Rep.",63626810883,33901414
+Summer,1976,Montreal,Canada,33,Brazil,0,0,2,2,Brazil,152678020453,110808302
+Summer,1976,Montreal,Canada,34,Trinidad and Tobago,1,0,0,1,Trinidad and Tobago,2500420784,1025655
+Summer,1976,Montreal,Canada,35,Venezuela,0,1,0,1,"Venezuela, RB",36272315695,13196169
+Summer,1976,Montreal,Canada,36,Mongolia,0,1,0,1,Mongolia,0,1520864
+Summer,1976,Montreal,Canada,37,Thailand,0,0,1,1,Thailand,16985208712,43382444
+Summer,1976,Montreal,Canada,38,Puerto Rico,0,0,1,1,Puerto Rico,8969000000,3043854
+Summer,1976,Montreal,Canada,39,Bermuda,0,0,1,1,Bermuda,386300000,53200
+Summer,1976,Montreal,Canada,40,Pakistan,0,0,1,1,Pakistan,13338485498,70268556
+Summer,1976,Montreal,Canada,41,Austria,0,0,1,1,Austria,42518592468,7565525
+Winter,1976,Innsbruck,Austria,1,Soviet Union,13,6,8,27,Russian Federation,0,135146686
+Winter,1976,Innsbruck,Austria,2,East Germany,7,5,7,19,Germany,502973378650,78336950
+Winter,1976,Innsbruck,Austria,3,United States,3,3,4,10,United States,1877600000000,218035000
+Winter,1976,Innsbruck,Austria,4,West Germany,2,5,3,10,Germany,502973378650,78336950
+Winter,1976,Innsbruck,Austria,5,Norway,3,3,1,7,Norway,35575735361,4026152
+Winter,1976,Innsbruck,Austria,6,Finland,2,4,1,7,Finland,31470995538,4725664
+Winter,1976,Innsbruck,Austria,7,Austria,2,2,2,6,Austria,42518592468,7565525
+Winter,1976,Innsbruck,Austria,8,Netherlands,1,2,3,6,Netherlands,101123520587,13774037
+Winter,1976,Innsbruck,Austria,9,Switzerland,1,3,1,5,Switzerland,0,6302504
+Winter,1976,Innsbruck,Austria,10,Italy,1,2,1,4,Italy,216511885599,55718260
+Winter,1976,Innsbruck,Austria,11,Canada,1,1,1,3,Canada,202833671400,23518000
+Winter,1976,Innsbruck,Austria,12,Sweden,0,0,2,2,Sweden,84781560642,8222286
+Winter,1976,Innsbruck,Austria,13,Liechtenstein,0,0,2,2,Liechtenstein,272489354,23926
+Winter,1976,Innsbruck,Austria,14,Great Britain,1,0,0,1,United Kingdom,227154794943,56211968
+Winter,1976,Innsbruck,Austria,15,Czechoslovakia,0,1,0,1,Czech Republic,0,10125939
+Winter,1976,Innsbruck,Austria,16,France,0,0,1,1,France,367269735045,54328016
+Summer,1972,Munchen,West Germany,1,Soviet Union,50,27,22,99,Russian Federation,0,131909342
+Summer,1972,Munchen,West Germany,2,United States,33,31,30,94,United States,1282400000000,209896000
+Summer,1972,Munchen,West Germany,3,East Germany,20,23,23,66,Germany,290121986827,78688452
+Summer,1972,Munchen,West Germany,4,West Germany,13,11,16,40,Germany,290121986827,78688452
+Summer,1972,Munchen,West Germany,5,Hungary,6,13,16,35,Hungary,7074918567,10398489
+Summer,1972,Munchen,West Germany,6,Japan,13,8,8,29,Japan,312738030290,107188000
+Summer,1972,Munchen,West Germany,7,Poland,7,5,9,21,Poland,0,33055650
+Summer,1972,Munchen,West Germany,8,Bulgaria,6,10,5,21,Bulgaria,0,8576200
+Summer,1972,Munchen,West Germany,9,Italy,5,3,10,18,Italy,139955971404,54381345
+Summer,1972,Munchen,West Germany,10,Great Britain,4,5,9,18,United Kingdom,162199828773,56086065
+Summer,1972,Munchen,West Germany,11,Australia,8,7,2,17,Australia,52035046729,13177000
+Summer,1972,Munchen,West Germany,12,Sweden,4,6,6,16,Sweden,46444859735,8122300
+Summer,1972,Munchen,West Germany,13,Romania,3,6,7,16,Romania,0,20657957
+Summer,1972,Munchen,West Germany,14,France,2,4,7,13,France,200955006502,52776806
+Summer,1972,Munchen,West Germany,15,Kenya,2,3,4,9,Kenya,2107279157,12083159
+Summer,1972,Munchen,West Germany,16,Cuba,3,1,4,8,Cuba,8135150889,9025344
+Summer,1972,Munchen,West Germany,17,Finland,3,1,4,8,Finland,14567968587,4639657
+Summer,1972,Munchen,West Germany,18,Czechoslovakia,2,4,2,8,Czech Republic,0,9867632
+Summer,1972,Munchen,West Germany,19,Netherlands,3,1,1,5,Netherlands,50674951936,13328593
+Summer,1972,Munchen,West Germany,20,Yugoslavia,2,1,2,5,"Macedonia, FYR",0,1723445
+Summer,1972,Munchen,West Germany,21,North Korea,1,1,3,5,"Korea, Dem. Rep.",0,15214618
+Summer,1972,Munchen,West Germany,22,Canada,0,2,3,5,Canada,111034447924,21993631
+Summer,1972,Munchen,West Germany,23,Norway,2,1,1,4,Norway,17219726177,3933004
+Summer,1972,Munchen,West Germany,24,New Zealand,1,1,1,3,New Zealand,9525203023,2903900
+Summer,1972,Munchen,West Germany,25,Switzerland,0,3,0,3,Switzerland,0,6260956
+Summer,1972,Munchen,West Germany,26,Iran,0,2,1,3,"Iran, Islamic Rep.",16346614632,30184173
+Summer,1972,Munchen,West Germany,27,Colombia,0,1,2,3,Colombia,8671371951,22404289
+Summer,1972,Munchen,West Germany,28,Austria,0,1,2,3,Austria,21832965362,7544201
+Summer,1972,Munchen,West Germany,29,Uganda,1,1,0,2,Uganda,1490970307,9988441
+Summer,1972,Munchen,West Germany,30,Greece,0,2,0,2,Greece,16101411778,8888628
+Summer,1972,Munchen,West Germany,31,Belgium,0,2,0,2,Belgium,36756500047,9711115
+Summer,1972,Munchen,West Germany,32,Brazil,0,0,2,2,Brazil,58539008796,100812672
+Summer,1972,Munchen,West Germany,33,Ethiopia,0,0,2,2,Ethiopia,0,30135531
+Summer,1972,Munchen,West Germany,34,Denmark,1,0,0,1,Denmark,22591052336,4991596
+Summer,1972,Munchen,West Germany,35,South Korea,0,1,0,1,"Korea, Rep.",10735574843,33265648
+Summer,1972,Munchen,West Germany,36,Mexico,0,1,0,1,Mexico,45178119327,56395803
+Summer,1972,Munchen,West Germany,37,Lebanon,0,1,0,1,Lebanon,0,2416743
+Summer,1972,Munchen,West Germany,38,Pakistan,0,1,0,1,Pakistan,9309109504,62532284
+Summer,1972,Munchen,West Germany,39,Tunisia,0,1,0,1,Tunisia,2237570219,5294325
+Summer,1972,Munchen,West Germany,40,Argentina,0,1,0,1,Argentina,34733000536,24785830
+Summer,1972,Munchen,West Germany,41,Turkey,0,1,0,1,Turkey,20431095406,36475356
+Summer,1972,Munchen,West Germany,42,Mongolia,0,1,0,1,Mongolia,0,1356666
+Summer,1972,Munchen,West Germany,43,Spain,0,0,1,1,Spain,57414244329,34502705
+Summer,1972,Munchen,West Germany,44,Niger,0,0,1,1,Niger,742779660,4664739
+Summer,1972,Munchen,West Germany,45,Ghana,0,0,1,1,Ghana,2112593380,9083737
+Summer,1972,Munchen,West Germany,46,Nigeria,0,0,1,1,Nigeria,12274416018,58829321
+Summer,1972,Munchen,West Germany,47,India,0,0,1,1,India,72716595884,580798773
+Summer,1972,Munchen,West Germany,48,Jamaica,0,0,1,1,Jamaica,1875146657,1925162
+Winter,1972,Sapporo,Japan,1,Soviet Union,8,5,3,16,Russian Federation,0,131909342
+Winter,1972,Sapporo,Japan,2,East Germany,4,3,7,14,Germany,290121986827,78688452
+Winter,1972,Sapporo,Japan,3,Norway,2,5,5,12,Norway,17219726177,3933004
+Winter,1972,Sapporo,Japan,4,Switzerland,4,3,3,10,Switzerland,0,6260956
+Winter,1972,Sapporo,Japan,5,Netherlands,4,3,2,9,Netherlands,50674951936,13328593
+Winter,1972,Sapporo,Japan,6,United States,3,2,3,8,United States,1282400000000,209896000
+Winter,1972,Sapporo,Japan,7,West Germany,3,1,1,5,Germany,290121986827,78688452
+Winter,1972,Sapporo,Japan,8,Italy,2,2,1,5,Italy,139955971404,54381345
+Winter,1972,Sapporo,Japan,9,Austria,1,2,2,5,Austria,21832965362,7544201
+Winter,1972,Sapporo,Japan,10,Finland,0,4,1,5,Finland,14567968587,4639657
+Winter,1972,Sapporo,Japan,11,Sweden,1,1,2,4,Sweden,46444859735,8122300
+Winter,1972,Sapporo,Japan,12,Japan,1,1,1,3,Japan,312738030290,107188000
+Winter,1972,Sapporo,Japan,13,Czechoslovakia,1,0,2,3,Czech Republic,0,9867632
+Winter,1972,Sapporo,Japan,14,France,0,1,2,3,France,200955006502,52776806
+Winter,1972,Sapporo,Japan,15,Poland,1,0,0,1,Poland,0,33055650
+Winter,1972,Sapporo,Japan,16,Spain,1,0,0,1,Spain,57414244329,34502705
+Winter,1972,Sapporo,Japan,17,Canada,0,1,0,1,Canada,111034447924,21993631
+Summer,1968,Ciudad de Mexico,Mexico,1,United States,45,28,34,107,United States,901455806464,200706000
+Summer,1968,Ciudad de Mexico,Mexico,2,Soviet Union,29,32,30,91,Russian Federation,0,128927892
+Summer,1968,Ciudad de Mexico,Mexico,3,Hungary,10,10,12,32,Hungary,4684666743,10255815
+Summer,1968,Ciudad de Mexico,Mexico,4,West Germany,5,11,10,26,Germany,0,77294314
+Summer,1968,Ciudad de Mexico,Mexico,5,Japan,11,7,7,25,Japan,146601072686,101061000
+Summer,1968,Ciudad de Mexico,Mexico,6,East Germany,9,9,7,25,Germany,0,77294314
+Summer,1968,Ciudad de Mexico,Mexico,7,Poland,5,2,11,18,Poland,0,32294655
+Summer,1968,Ciudad de Mexico,Mexico,8,Australia,5,7,5,17,Australia,32709149961,12009000
+Summer,1968,Ciudad de Mexico,Mexico,9,Italy,3,4,9,16,Italy,87942231678,53235750
+Summer,1968,Ciudad de Mexico,Mexico,10,France,7,3,5,15,France,129847107788,51175036
+Summer,1968,Ciudad de Mexico,Mexico,11,Romania,4,6,5,15,Romania,0,19799831
+Summer,1968,Ciudad de Mexico,Mexico,12,Czechoslovakia,7,2,4,13,Czech Republic,0,9876346
+Summer,1968,Ciudad de Mexico,Mexico,13,Great Britain,5,5,3,13,United Kingdom,104702736248,55211700
+Summer,1968,Ciudad de Mexico,Mexico,14,Kenya,3,4,2,9,Kenya,1353295458,10502250
+Summer,1968,Ciudad de Mexico,Mexico,15,Mexico,3,3,3,9,Mexico,29363632834,49787609
+Summer,1968,Ciudad de Mexico,Mexico,16,Bulgaria,2,4,3,9,Bulgaria,0,8369603
+Summer,1968,Ciudad de Mexico,Mexico,17,Yugoslavia,3,3,2,8,"Macedonia, FYR",0,1649396
+Summer,1968,Ciudad de Mexico,Mexico,18,Denmark,1,4,3,8,Denmark,13196541952,4864883
+Summer,1968,Ciudad de Mexico,Mexico,19,Netherlands,3,3,1,7,Netherlands,27817605743,12729721
+Summer,1968,Ciudad de Mexico,Mexico,20,Iran,2,1,2,5,"Iran, Islamic Rep.",8447898398,27113136
+Summer,1968,Ciudad de Mexico,Mexico,21,Canada,1,3,1,5,Canada,70759031842,20744000
+Summer,1968,Ciudad de Mexico,Mexico,22,Switzerland,0,1,4,5,Switzerland,18942729779,6067714
+Summer,1968,Ciudad de Mexico,Mexico,23,Sweden,2,1,1,4,Sweden,29143383491,7912273
+Summer,1968,Ciudad de Mexico,Mexico,24,Finland,1,2,1,4,Finland,8823033880,4626469
+Summer,1968,Ciudad de Mexico,Mexico,25,Cuba,0,4,0,4,Cuba,0,8413282
+Summer,1968,Ciudad de Mexico,Mexico,26,Austria,0,2,2,4,Austria,12440625313,7415403
+Summer,1968,Ciudad de Mexico,Mexico,27,Mongolia,0,1,3,4,Mongolia,0,1207102
+Summer,1968,Ciudad de Mexico,Mexico,28,New Zealand,1,0,2,3,New Zealand,5180597621,2748100
+Summer,1968,Ciudad de Mexico,Mexico,29,Brazil,0,1,2,3,Brazil,33875881906,91377490
+Summer,1968,Ciudad de Mexico,Mexico,30,Turkey,2,0,0,2,Turkey,17500000000,33196289
+Summer,1968,Ciudad de Mexico,Mexico,31,Ethiopia,1,1,0,2,Ethiopia,0,26945326
+Summer,1968,Ciudad de Mexico,Mexico,32,Norway,1,1,0,2,Norway,10159934137,3816486
+Summer,1968,Ciudad de Mexico,Mexico,33,Tunisia,1,0,1,2,Tunisia,1214666667,4933131
+Summer,1968,Ciudad de Mexico,Mexico,34,Uganda,0,1,1,2,Uganda,1037379286,8872890
+Summer,1968,Ciudad de Mexico,Mexico,35,South Korea,0,1,1,2,"Korea, Rep.",5955336766,30574752
+Summer,1968,Ciudad de Mexico,Mexico,36,Belgium,0,1,1,2,Belgium,21376353113,9618756
+Summer,1968,Ciudad de Mexico,Mexico,37,Argentina,0,0,2,2,Argentina,26436857248,23269302
+Summer,1968,Ciudad de Mexico,Mexico,38,Venezuela,1,0,0,1,"Venezuela, RB",11470909285,10040248
+Summer,1968,Ciudad de Mexico,Mexico,39,Pakistan,1,0,0,1,Pakistan,8090088419,56074840
+Summer,1968,Ciudad de Mexico,Mexico,40,Cameroon,0,1,0,1,Cameroon,1053076992,6437157
+Summer,1968,Ciudad de Mexico,Mexico,41,Jamaica,0,1,0,1,Jamaica,1083839096,1823706
+Summer,1968,Ciudad de Mexico,Mexico,42,India,0,0,1,1,India,54016411987,531160986
+Summer,1968,Ciudad de Mexico,Mexico,44,Greece,0,0,1,1,Greece,9915140546,8740765
+Winter,1968,Grenoble,France,1,Norway,6,6,2,14,Norway,10159934137,3816486
+Winter,1968,Grenoble,France,2,Soviet Union,5,5,3,13,Russian Federation,0,128927892
+Winter,1968,Grenoble,France,3,Austria,3,4,4,11,Austria,12440625313,7415403
+Winter,1968,Grenoble,France,4,France,4,3,2,9,France,129847107788,51175036
+Winter,1968,Grenoble,France,5,Netherlands,3,3,3,9,Netherlands,27817605743,12729721
+Winter,1968,Grenoble,France,6,Sweden,3,2,3,8,Sweden,29143383491,7912273
+Winter,1968,Grenoble,France,7,West Germany,2,2,3,7,Germany,0,77294314
+Winter,1968,Grenoble,France,8,United States,1,5,1,7,United States,901455806464,200706000
+Winter,1968,Grenoble,France,9,Switzerland,0,2,4,6,Switzerland,18942729779,6067714
+Winter,1968,Grenoble,France,10,East Germany,1,2,2,5,Germany,0,77294314
+Winter,1968,Grenoble,France,11,Finland,1,2,2,5,Finland,8823033880,4626469
+Winter,1968,Grenoble,France,12,Italy,4,0,0,4,Italy,87942231678,53235750
+Winter,1968,Grenoble,France,13,Czechoslovakia,1,2,1,4,Czech Republic,0,9876346
+Winter,1968,Grenoble,France,14,Canada,1,1,1,3,Canada,70759031842,20744000
+Winter,1968,Grenoble,France,15,Romania,0,0,1,1,Romania,0,19799831
+Summer,1964,Tokyo,Japan,1,Soviet Union,30,31,35,96,Russian Federation,0,125344803
+Summer,1964,Tokyo,Japan,2,United States,36,26,28,90,United States,656912089088,191889000
+Summer,1964,Tokyo,Japan,3,Germany,10,22,18,50,Germany,0,75318337
+Summer,1964,Tokyo,Japan,4,Japan,16,5,8,29,Japan,81749006382,97826000
+Summer,1964,Tokyo,Japan,5,Italy,10,10,7,27,Italy,63175417019,51675350
+Summer,1964,Tokyo,Japan,6,Poland,7,6,10,23,Poland,0,31139450
+Summer,1964,Tokyo,Japan,7,Hungary,10,7,5,22,Hungary,0,10119835
+Summer,1964,Tokyo,Japan,8,Australia,6,2,10,18,Australia,23803337440,11167000
+Summer,1964,Tokyo,Japan,9,Great Britain,4,12,2,18,United Kingdom,93387598814,54000000
+Summer,1964,Tokyo,Japan,10,France,1,8,6,15,France,94906593388,49361165
+Summer,1964,Tokyo,Japan,11,Czechoslovakia,5,6,3,14,Czech Republic,0,9727804
+Summer,1964,Tokyo,Japan,12,Romania,2,4,6,12,Romania,0,18919126
+Summer,1964,Tokyo,Japan,13,Bulgaria,3,5,2,10,Bulgaria,0,8144340
+Summer,1964,Tokyo,Japan,14,Netherlands,2,4,4,10,Netherlands,18699380731,12127120
+Summer,1964,Tokyo,Japan,15,Sweden,2,2,4,8,Sweden,21137242561,7661354
+Summer,1964,Tokyo,Japan,16,Turkey,2,3,1,6,Turkey,11172953082,30292969
+Summer,1964,Tokyo,Japan,17,Denmark,2,1,3,6,Denmark,9506678763,4722072
+Summer,1964,Tokyo,Japan,18,Finland,3,0,2,5,Finland,7766655086,4548543
+Summer,1964,Tokyo,Japan,19,New Zealand,3,0,2,5,New Zealand,7274144351,2585400
+Summer,1964,Tokyo,Japan,20,Yugoslavia,2,1,2,5,"Macedonia, FYR",0,1556150
+Summer,1964,Tokyo,Japan,21,Canada,1,2,1,4,Canada,48882938810,19325000
+Summer,1964,Tokyo,Japan,22,Switzerland,1,2,1,4,Switzerland,14480556572,5789228
+Summer,1964,Tokyo,Japan,23,Belgium,2,0,1,3,Belgium,15960106681,9378113
+Summer,1964,Tokyo,Japan,24,South Korea,0,2,1,3,"Korea, Rep.",3358134143,27836904
+Summer,1964,Tokyo,Japan,25,Trinidad and Tobago,0,1,2,3,Trinidad and Tobago,711897539,903272
+Summer,1964,Tokyo,Japan,26,Tunisia,0,1,1,2,Tunisia,1025866811,4530835
+Summer,1964,Tokyo,Japan,27,Iran,0,0,2,2,"Iran, Islamic Rep.",0,24373188
+Summer,1964,Tokyo,Japan,28,Bahamas,1,0,0,1,"Bahamas, The",266664054,133697
+Summer,1964,Tokyo,Japan,29,India,1,0,0,1,India,57470781033,487607406
+Summer,1964,Tokyo,Japan,30,Ethiopia,1,0,0,1,Ethiopia,0,24396981
+Summer,1964,Tokyo,Japan,31,Philippines,0,1,0,1,Philippines,5271360643,29961902
+Summer,1964,Tokyo,Japan,32,Pakistan,0,1,0,1,Pakistan,5130407637,50404401
+Summer,1964,Tokyo,Japan,33,Cuba,0,1,0,1,Cuba,0,7787144
+Summer,1964,Tokyo,Japan,34,Argentina,0,1,0,1,Argentina,25605249382,21963952
+Summer,1964,Tokyo,Japan,35,Mexico,0,0,1,1,Mexico,20070134741,43931398
+Summer,1964,Tokyo,Japan,36,Uruguay,0,0,1,1,Uruguay,1974511146,2665561
+Summer,1964,Tokyo,Japan,37,Ireland,0,0,1,1,Ireland,2766608946,2866550
+Summer,1964,Tokyo,Japan,38,Ghana,0,0,1,1,Ghana,1731576345,7513510
+Summer,1964,Tokyo,Japan,39,Nigeria,0,0,1,1,Nigeria,5552931029,49169820
+Summer,1964,Tokyo,Japan,40,Brazil,0,0,1,1,Brazil,21211892260,82017016
+Summer,1964,Tokyo,Japan,41,Kenya,0,0,1,1,Kenya,998759331,9200158
+Winter,1964,Innsbruck,Austria,1,Soviet Union,11,8,6,25,Russian Federation,0,125344803
+Winter,1964,Innsbruck,Austria,2,Norway,3,6,6,15,Norway,7159202706,3694339
+Winter,1964,Innsbruck,Austria,3,Austria,4,5,3,12,Austria,9169983886,7223801
+Winter,1964,Innsbruck,Austria,4,Finland,3,4,3,10,Finland,7766655086,4548543
+Winter,1964,Innsbruck,Austria,5,Germany,3,3,3,9,Germany,0,75318337
+Winter,1964,Innsbruck,Austria,6,France,3,4,0,7,France,94906593388,49361165
+Winter,1964,Innsbruck,Austria,7,Sweden,3,3,1,7,Sweden,21137242561,7661354
+Winter,1964,Innsbruck,Austria,8,United States,1,2,4,7,United States,656912089088,191889000
+Winter,1964,Innsbruck,Austria,9,Italy,0,1,3,4,Italy,63175417019,51675350
+Winter,1964,Innsbruck,Austria,10,Canada,1,1,1,3,Canada,48882938810,19325000
+Winter,1964,Innsbruck,Austria,11,Netherlands,1,1,0,2,Netherlands,18699380731,12127120
+Winter,1964,Innsbruck,Austria,12,Great Britain,1,0,0,1,United Kingdom,93387598814,54000000
+Winter,1964,Innsbruck,Austria,13,North Korea,0,1,0,1,"Korea, Dem. Rep.",0,12282423
+Winter,1964,Innsbruck,Austria,14,Czechoslovakia,0,0,1,1,Czech Republic,0,9727804
+Summer,1960,Roma,Italy,1,Soviet Union,43,29,31,103,Russian Federation,0,119897000
+Summer,1960,Roma,Italy,2,United States,34,21,16,71,United States,520531181568,180671000
+Summer,1960,Roma,Italy,3,Germany,12,19,11,42,Germany,0,72814900
+Summer,1960,Roma,Italy,4,Italy,13,10,13,36,Italy,40385288344,50199700
+Summer,1960,Roma,Italy,5,Australia,8,8,6,22,Australia,18609026767,10276477
+Summer,1960,Roma,Italy,6,Hungary,6,8,7,21,Hungary,0,9983967
+Summer,1960,Roma,Italy,7,Poland,4,6,11,21,Poland,0,29637450
+Summer,1960,Roma,Italy,8,Great Britain,2,6,12,20,United Kingdom,72328047042,52400000
+Summer,1960,Roma,Italy,9,Japan,4,7,7,18,Japan,44307342950,92500572
+Summer,1960,Roma,Italy,10,Romania,3,1,6,10,Romania,0,18406905
+Summer,1960,Roma,Italy,11,Turkey,7,2,0,9,Turkey,13995124535,27553280
+Summer,1960,Roma,Italy,12,Czechoslovakia,3,2,3,8,Czech Republic,0,9602006
+Summer,1960,Roma,Italy,13,Bulgaria,1,3,3,7,Bulgaria,0,7867374
+Summer,1960,Roma,Italy,14,Denmark,2,3,1,6,Denmark,6248946880,4579603
+Summer,1960,Roma,Italy,15,Sweden,1,2,3,6,Sweden,14842870293,7484656
+Summer,1960,Roma,Italy,16,Switzerland,0,3,3,6,Switzerland,9522746719,5327827
+Summer,1960,Roma,Italy,17,Finland,1,1,3,5,Finland,5224102196,4429634
+Summer,1960,Roma,Italy,18,France,0,2,3,5,France,62651474947,46647521
+Summer,1960,Roma,Italy,19,Belgium,0,2,2,4,Belgium,11658722591,9153489
+Summer,1960,Roma,Italy,20,Iran,0,1,3,4,"Iran, Islamic Rep.",0,21958460
+Summer,1960,Roma,Italy,21,New Zealand,2,0,1,3,New Zealand,5485854792,2371800
+Summer,1960,Roma,Italy,22,Netherlands,0,1,2,3,Netherlands,12276734172,11486631
+Summer,1960,Roma,Italy,23,South Africa,0,1,2,3,South Africa,7363240475,17396000
+Summer,1960,Roma,Italy,24,Yugoslavia,1,1,0,2,"Macedonia, FYR",0,1471139
+Summer,1960,Roma,Italy,25,Austria,1,1,0,2,Austria,6592693841,7047539
+Summer,1960,Roma,Italy,26,Pakistan,1,0,1,2,Pakistan,3707055834,45540594
+Summer,1960,Roma,Italy,28,Argentina,0,1,1,2,Argentina,0,20623998
+Summer,1960,Roma,Italy,29,Brazil,0,0,2,2,Brazil,15165569913,72775883
+Summer,1960,Roma,Italy,31,Norway,1,0,0,1,Norway,5163271598,3581239
+Summer,1960,Roma,Italy,32,Greece,1,0,0,1,Greece,4446528165,8331725
+Summer,1960,Roma,Italy,33,Ethiopia,1,0,0,1,Ethiopia,0,22151218
+Summer,1960,Roma,Italy,34,Portugal,0,1,0,1,Portugal,3193200404,8857716
+Summer,1960,Roma,Italy,35,Ghana,0,1,0,1,Ghana,1217790385,6652516
+Summer,1960,Roma,Italy,36,Singapore,0,1,0,1,Singapore,704453107,1646000
+Summer,1960,Roma,Italy,37,India,0,1,0,1,India,37679274491,449595489
+Summer,1960,Roma,Italy,38,Morocco,0,1,0,1,Morocco,2037154692,12328534
+Summer,1960,Roma,Italy,40,Canada,0,1,0,1,Canada,41093453545,17909009
+Summer,1960,Roma,Italy,41,Iraq,0,0,1,1,Iraq,1683918720,7289759
+Summer,1960,Roma,Italy,42,Spain,0,0,1,1,Spain,12072126075,30455000
+Summer,1960,Roma,Italy,43,Venezuela,0,0,1,1,"Venezuela, RB",8607600069,7580281
+Summer,1960,Roma,Italy,44,Mexico,0,0,1,1,Mexico,13056164925,38676974
+Winter,1960,Squaw Valley,United States,1,Soviet Union,7,5,9,21,Russian Federation,0,119897000
+Winter,1960,Squaw Valley,United States,2,United States,3,4,3,10,United States,520531181568,180671000
+Winter,1960,Squaw Valley,United States,3,Germany,4,3,1,8,Germany,0,72814900
+Winter,1960,Squaw Valley,United States,4,Finland,2,3,3,8,Finland,5224102196,4429634
+Winter,1960,Squaw Valley,United States,5,Sweden,3,2,2,7,Sweden,14842870293,7484656
+Winter,1960,Squaw Valley,United States,6,Norway,3,3,0,6,Norway,5163271598,3581239
+Winter,1960,Squaw Valley,United States,7,Austria,1,2,3,6,Austria,6592693841,7047539
+Winter,1960,Squaw Valley,United States,8,Canada,2,1,1,4,Canada,41093453545,17909009
+Winter,1960,Squaw Valley,United States,9,France,1,0,2,3,France,62651474947,46647521
+Winter,1960,Squaw Valley,United States,10,Switzerland,2,0,0,2,Switzerland,9522746719,5327827
+Winter,1960,Squaw Valley,United States,11,Netherlands,0,1,1,2,Netherlands,12276734172,11486631
+Winter,1960,Squaw Valley,United States,12,Poland,0,1,1,2,Poland,0,29637450
+Winter,1960,Squaw Valley,United States,13,Czechoslovakia,0,1,0,1,Czech Republic,0,9602006
+Winter,1960,Squaw Valley,United States,14,Italy,0,0,1,1,Italy,40385288344,50199700
