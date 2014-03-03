@@ -24,5 +24,6 @@ gettotals <- function(data, sortby="Country") {
   }
     
   print(head(totalcount))
+  assign('totalcount',totalcount,envir=.GlobalEnv)
   
 }
