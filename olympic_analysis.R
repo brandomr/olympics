@@ -71,4 +71,11 @@ getperformance <- function(type) {
   write.csv(simpleoutput, file = filetosave)
   
   
+  #write summary output to an HTML table using xtable
+  library(xtable)
+  sumoutput <- summary(fit)
+  xtableoutput <- xtable(sumoutput)
+  coef_rl = print(xtableoutput, type = "html")
+  
+
 }
