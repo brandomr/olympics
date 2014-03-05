@@ -1,7 +1,7 @@
 getperformance <- function(type) { 
   
   #read in data
-  data <- read.csv("consolidated_olympic_datav3.csv")
+  data <- read.csv("consolidated_olympic_datav4.csv")
 
   #subset by game type (winter or summer) and for only countries that participated
   datasub <- subset(data, GameType == type & Participant == 1)
